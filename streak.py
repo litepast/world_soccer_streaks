@@ -1,5 +1,8 @@
 # https://www.kaggle.com/datasets/patateriedata/all-international-football-results/code
 
+from datetime import datetime
+from zoneinfo import ZoneInfo
+
 class Streak:
     """
  
@@ -7,6 +10,7 @@ class Streak:
     def __init__(self, matches, countries):
         self.matches = matches
         self.countries = countries
+        self.streaks = {}
         self.unbeaten_streaks = {}
         self.winless_streaks = {}
         self.winning_streaks = {}
@@ -29,12 +33,11 @@ class Streak:
             return True, None, None
 
     def __get_addition_condition(self,team, streaks):        
-        if team not in streaks:
-            return 1 #if the team is not on the streaks data at all
-        elif streaks[team][-1]['details_end']:
-            return 2 #team had its last streak finished
+          
+        if team not in streaks or streaks[team][-1]['details_end']:
+            return 1 #new streak needed, either for new or existing team
         else:
-            return 3 #the streak is still running
+            return 2 #the streak is still running
         
     def __get_unfinished_streaks(self, all_streaks):
         return   [
@@ -264,9 +267,9 @@ class Streak:
         streaks_filtered_by_min.sort(key=lambda x: x['total'], reverse=True)
         return self.__filter_by_top(top_streaks, streaks_filtered_by_min)
 
-    def get_all_top_streaks(self):
+    def get_alltime_top_streaks(self):
         """ Tracks all types of streaks in one gom no filters """
-
+        
         streak_types = {
                     "unbeaten": self.unbeaten_streaks,
                     "winless": self.winless_streaks,
@@ -302,10 +305,16 @@ class Streak:
                     add_condition = self.__get_addition_condition(team, streak_dict)
 
                     if not update_conditions[streak_name]:  # Streak is broken
-                        if add_condition == 3:
+                        #if add_condition == 3:
+                        if add_condition == 2:
                             streak_dict[team][-1]["details_end"] = match_detail
+                    
+                    # if not update_conditions[streak_name] and add_condition == 2:
+                    #         streak_dict[team][-1]["details_end"] = match_detail
                     else:
-                        if add_condition in [1, 2]:
+                        #if add_condition in [1, 2]:
+                     
+                        if add_condition == 1:
                             streak_dict.setdefault(team, []).append(
                                 {"total": 0, "wins": 0, "draws": 0, "losses": 0, "date_started": date,
                                 "details_streak": [], "details_end": {}}
@@ -328,22 +337,22 @@ class Streak:
         final_unbeaten_streaks.sort(key=lambda x: ((x['total']), x['wins']), reverse=True)     
         final_winning_streaks = self.__filter_by_minimum(self._minimum_total, streak_types["winning"])
         final_winning_streaks.sort(key=lambda x: x['total'], reverse=True)  
-        final_losing_streaks = self.__filter_by_minimum(self._minimum_total, streak_types["winning"])
+        final_losing_streaks = self.__filter_by_minimum(self._minimum_total, streak_types["losing"])
         final_losing_streaks.sort(key=lambda x: x['total'], reverse=True)        
         final_winless_streaks = self.__filter_by_minimum(self._minimum_total, streak_types["winless"])
         final_winless_streaks.sort(key=lambda x: ((x['total']), x['losses']), reverse=True)   
         final_drawing_streaks = self.__filter_by_minimum(6, streak_types["drawing"])
         final_drawing_streaks.sort(key=lambda x: x['total'], reverse=True)
 
-        self.top_alltime_streaks["unbeaten"] = self.__filter_by_top(self._top_streaks, final_unbeaten_streaks)
-        self.top_alltime_streaks["winning"] = self.__filter_by_top(self._top_streaks, final_winning_streaks)
-        self.top_alltime_streaks["losing"] = self.__filter_by_top(self._top_streaks, final_losing_streaks)
-        self.top_alltime_streaks["winless"] = self.__filter_by_top(self._top_streaks, final_winless_streaks)
-        self.top_alltime_streaks["drawing"] = self.__filter_by_top(self._top_streaks, final_drawing_streaks)
-        
+        self.top_alltime_streaks["Unbeaten"] = self.__filter_by_top(self._top_streaks, final_unbeaten_streaks)
+        self.top_alltime_streaks["Winning"] = self.__filter_by_top(self._top_streaks, final_winning_streaks)
+        self.top_alltime_streaks["Losing"] = self.__filter_by_top(self._top_streaks, final_losing_streaks)
+        self.top_alltime_streaks["Winless"] = self.__filter_by_top(self._top_streaks, final_winless_streaks)
+        self.top_alltime_streaks["Drawing"] = self.__filter_by_top(self._top_streaks, final_drawing_streaks)
+       
         return self.top_alltime_streaks
 
-    def get_all_active_streaks(self):
+    def get_active_top_streaks(self):
         min_active = 5
 
         active_unbeaten = self.__get_unfinished_streaks(self.unbeaten_streaks)     
@@ -366,10 +375,20 @@ class Streak:
         active_drawing = self.__filter_by_current_country(active_drawing)
         active_drawing.sort(key=lambda x: x['total'], reverse=True)
 
-        self.top_active_streaks["unbeaten"] = self.__filter_by_top(min_active, active_unbeaten)
-        self.top_active_streaks["winning"] = self.__filter_by_top(min_active, active_winning)
-        self.top_active_streaks["losing"] = self.__filter_by_top(min_active, active_losing)
-        self.top_active_streaks["winless"] = self.__filter_by_top(min_active, active_winless)
-        self.top_active_streaks["drawing"] = self.__filter_by_top(min_active, active_drawing)
+        self.top_active_streaks["Unbeaten"] = self.__filter_by_top(min_active, active_unbeaten)
+        self.top_active_streaks["Winning"] = self.__filter_by_top(min_active, active_winning)
+        self.top_active_streaks["Losing"] = self.__filter_by_top(min_active, active_losing)
+        self.top_active_streaks["Winless"] = self.__filter_by_top(min_active, active_winless)
+        self.top_active_streaks["Drawing"] = self.__filter_by_top(min_active, active_drawing)
 
         return self.top_active_streaks
+
+    def get_all_top_streaks(self):
+        dt_update = datetime.now(ZoneInfo("America/Mexico_City"))
+        dt_update_str = dt_update.isoformat()
+        self.streaks['date_updated'] = dt_update_str
+        self.streaks['all_time'] = self.get_alltime_top_streaks()
+        self.streaks['active'] = self.get_active_top_streaks()        
+        return self.streaks
+        
+        

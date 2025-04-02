@@ -1,5 +1,5 @@
 import pandas as pd
-from streaks_w_pandas import Streak as Streak_pandas
+from streak import Streak
 import json
 import time
 import kaggle
@@ -33,10 +33,9 @@ if __name__ == '__main__':
 
 
     st = time.time()
-    streak_pd = Streak_pandas(matches, countries)
-    top_streaks = streak_pd.get_all_top_streaks()
-    active_streaks = streak_pd.get_all_active_streaks()
-    json.dump(top_streaks, open('streaks_alltime.json', 'w'), indent=4)
-    json.dump(active_streaks, open('streaks_active.json', 'w'), indent=4) 
+    streaks = Streak(matches, countries)
+    streaks_json = streaks.get_all_top_streaks()
+    ##json.dump(streaks_json, open('streaks.json', 'w'), indent=4)
+    json.dump(streaks_json, open('./streaks_fe/src/data/streaks.json', 'w'), indent=4)
     elapsed_time = time.time() - st
     print('TL time', elapsed_time, 'seconds')
