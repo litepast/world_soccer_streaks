@@ -22,8 +22,10 @@ __pycache__
 *.csv
 *.ipynb
 *.zip
+*.json
 test.py
 
 streaks_fe/.gitignore
 streaks_fe/src/components/__tests__/HelloWorld.spec.js
 streaks_fe/.vscode/extensions.json
+streaks_fe/src/data/streaks.json

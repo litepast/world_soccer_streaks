@@ -1,41 +1,41 @@
-import pandas as pd
-from streak import Streak
+"""
+Main module to get all streaks for world streaks website
+"""
+
 import json
-import time
+import pandas as pd
 import kaggle
 from dotenv import load_dotenv
+from streak import Streak
 
 def download_data():
+    """Download Kaggle dataset"""
     load_dotenv('config.env')
+    kaggle_dataset = "patateriedata/all-international-football-results"
     kaggle.api.authenticate()
-    kaggle.api.dataset_metadata("patateriedata/all-international-football-results",path=".")
-    kaggle.api.dataset_download_files("patateriedata/all-international-football-results",path=".",unzip=True)
+    kaggle.api.dataset_download_files(kaggle_dataset,path=".",unzip=True,  quiet = True)
 
-def load_matches():    
+def load_matches():
+    """Load matches dataset to pandas"""  
     df = pd.read_csv("all_matches.csv")
     return df
 
 def load_countries():
+    """Load current names dataset to pandas"""
     df = pd.read_csv("countries_names.csv")
     df = df.loc[(df['original_name'] == df['current_name']) ]
     current_countries = df['original_name'].values.tolist()
     return current_countries
 
 if __name__ == '__main__':
-    test = True
-    st = time.time()
-    if not test:
+    try:
+        JSON_DIR = './streaks_fe/src/data/streaks.json'
         download_data()
-    matches = load_matches()
-    countries = load_countries()
-    elapsed_time = time.time() - st
-    print('E time', elapsed_time, 'seconds')
-
-
-    st = time.time()
-    streaks = Streak(matches, countries)
-    streaks_json = streaks.get_all_top_streaks()
-    ##json.dump(streaks_json, open('streaks.json', 'w'), indent=4)
-    json.dump(streaks_json, open('./streaks_fe/src/data/streaks.json', 'w'), indent=4)
-    elapsed_time = time.time() - st
-    print('TL time', elapsed_time, 'seconds')
+        matches = load_matches()
+        countries = load_countries()
+        streaks = Streak(matches, countries)
+        streaks_json = streaks.get_all_top_streaks()
+        json.dump(streaks_json, open(JSON_DIR, 'w', encoding="utf-8"), indent=4)
+        print('Ready')
+    except Exception as error:
+        print("An exception occurred:", type(error).__name__)
