@@ -17,15 +17,12 @@
     </div>
     <h2>Top Streaks of All-Time</h2>
     <div class="description">
-      Finished Streaks, match details show the match which ended the streak on red <br> Click on streak for match details
+      The top finished streaks that have left their mark in history.
     </div>
-    
-    <!-- <div v-for="(streakType, i) in streakTypes">
-        <button @click="showAllTimeStreak(i)" :style="showAllTime[i] ? styleButtonSelected : null">
-          {{ streakType }}
-        </button>
-        'Unbeaten', 'Winning', 'Losing', 'Winless', 'Drawing'
-      </div> -->
+    <div class="inst">
+      Click on a streak to show its match details and click on the details to hide them again. Streak ended on match on red.
+    </div>
+     
 
     <div class="button-type-container">
       <div @click="showAllTimeStreak(0)" style="padding-left: 10px;" :style="showAllTime[0] ? styleButtonSelected : null" class="selector">
@@ -44,8 +41,6 @@
         Drawing
       </div>
     </div>
-
-
     <div v-for="(streakType, i) in streakTypes" style="width: 100%">
       <div v-show="showAllTime[i]" class="table-container">
         <StreakTable :streaks="streaks.all_time[streakType]" :showEnd="true" />
@@ -53,16 +48,34 @@
     </div>
 
     <h2>Top Active Streaks</h2>
-    <p class="description">
-      Streaks that are still running! Some teams might hope to extend them and some to end them!
-    </p>
+    <div class="description">
+      Streaks that are still running! Some teams might hope to extend them and some to end them!. Click on streak for match details
+    </div>
+    <div class="inst">
+      Click on a streak to show its match details and click on the details to hide them again.
+    </div>
+    
+
     <div class="button-type-container">
-      <div v-for="(streakType, i) in streakTypes">
-        <button @click="showActiveStreak(i)" :style="showActive[i] ? styleButtonSelected : null">
-          {{ streakType }}
-        </button>
+      <div @click="showActiveStreak(0)" style="padding-left: 10px;" :style="showActive[0] ? styleButtonSelected : null" class="selector">
+        Unbeaten
+      </div>
+      <div @click="showActiveStreak(1)" :style="showActive[1] ? styleButtonSelected : null" class="selector">        
+        Winning 
+      </div>
+      <div @click="showActiveStreak(2)" :style="showActive[2] ? styleButtonSelected : null" class="selector">        
+        Losing
+      </div>
+      <div @click="showActiveStreak(3)" :style="showActive[3] ? styleButtonSelected : null" class="selector">        
+        Winless
+      </div>
+      <div @click="showActiveStreak(4)" style="padding-right: 10px; ":style="showActive[4] ? styleButtonSelected : null" class="selector">        
+        Drawing
       </div>
     </div>
+
+
+
     <div v-for="(streakType, i) in streakTypes" style="width: 100%">
       <div v-show="showActive[i]" class="table-container">
         <StreakTable :streaks="streaks.active[streakType]" :showEnd="false" />
@@ -84,18 +97,13 @@ import streaks from './data/streaks.json'
 const streakTypes = ['Unbeaten', 'Winning', 'Losing', 'Winless', 'Drawing']
 const lastUpdate = new Date(streaks.date_updated).toLocaleString('es-MX', { timeZoneName: 'short' })
 const styleButtonSelected = 'font-weight: bold; color: white; border-bottom: 2px solid white;'
-
-// const maxLenghtAllTime = getMaxLenStreak(streaks.all_time)
-// const maxLenghtActive = getMaxLenStreak(streaks.active)
-
 const showAllTime = ref(Array(5).fill(false))
 const showActive = ref(Array(5).fill(false))
+
 showAllTime.value[0] = true
 showActive.value[0] = true
 
-// function getMaxLenStreak(data) {
-//   return Math.max(...Object.values(data).map((arr) => arr.length))
-// }
+
 
 function showAllTimeStreak(a) {
   showAllTime.value.fill(false)
@@ -130,7 +138,7 @@ h1 {
 h2 {
   width: 100%;
   text-align: left;
-  padding: 5px;
+  padding: 10px;
 }
 .last-update {
   width: 100%;
@@ -142,7 +150,18 @@ h2 {
 .description {
   width: 100%;
   justify-content: left;
-  padding: 10px;
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.inst{
+  width: 100%;
+  font-size: small;
+  justify-content: left;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
 }
 
 .button-type-container {
@@ -153,7 +172,9 @@ h2 {
   padding-top: 15px;
   color: rgb(160, 161, 175);
   background-color: rgb(16, 18, 24);
-  border-bottom: 1px solid rgb(54, 58, 66);
+  border: 1px solid rgb(54, 58, 66);
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
 }
 
 .selector{
@@ -189,6 +210,9 @@ a:active {
   justify-content: center;
   align-items: center;
   width: 100%;
+  border-left: 1px solid rgb(54, 58, 66);
+  border-right: 1px solid  rgb(54, 58, 66);
+  border-bottom: 1px solid  rgb(54, 58, 66);
 }
 
 footer {
