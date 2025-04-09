@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 from streak import Streak
 
 def download_data():
-    """Download Kaggle dataset"""
+    """Download Kaggle Dataset"""
     load_dotenv('config.env')
     kaggle_dataset = "patateriedata/all-international-football-results"
     kaggle.api.authenticate()

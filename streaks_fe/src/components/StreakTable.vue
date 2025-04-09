@@ -127,8 +127,9 @@ function countryBold(a, b) {
 }
 
 .streak td{
-  padding-top: 5px;
   padding-bottom: 5px;
+  padding-top: 5px;
+  
 }
 
 .streak:hover{

@@ -151,7 +151,6 @@ h2 {
   text-align: center;
   width: 100%;
   padding-top: 15px;
-  
   color: rgb(160, 161, 175);
   background-color: rgb(16, 18, 24);
   border-bottom: 1px solid rgb(54, 58, 66);

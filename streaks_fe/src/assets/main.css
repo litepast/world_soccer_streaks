@@ -1,8 +1,8 @@
 @import './base.css';
 
-#app {
-  max-width: 720px;
+#app {  
   margin: 0 auto;
+  max-width: 720px;
 }
 
 :root {
