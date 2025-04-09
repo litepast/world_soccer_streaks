@@ -17,15 +17,35 @@
     </div>
     <h2>Top Streaks of All-Time</h2>
     <div class="description">
-      Finished Streaks, match details show the match which ended the streak on red
+      Finished Streaks, match details show the match which ended the streak on red <br> Click on streak for match details
     </div>
-    <div class="button-type-container">
-      <div v-for="(streakType, i) in streakTypes">
+    
+    <!-- <div v-for="(streakType, i) in streakTypes">
         <button @click="showAllTimeStreak(i)" :style="showAllTime[i] ? styleButtonSelected : null">
           {{ streakType }}
         </button>
+        'Unbeaten', 'Winning', 'Losing', 'Winless', 'Drawing'
+      </div> -->
+
+    <div class="button-type-container">
+      <div @click="showAllTimeStreak(0)" style="padding-left: 10px;" :style="showAllTime[0] ? styleButtonSelected : null" class="selector">
+        Unbeaten
+      </div>
+      <div @click="showAllTimeStreak(1)" :style="showAllTime[1] ? styleButtonSelected : null" class="selector">        
+        Winning 
+      </div>
+      <div @click="showAllTimeStreak(2)" :style="showAllTime[2] ? styleButtonSelected : null" class="selector">        
+        Losing
+      </div>
+      <div @click="showAllTimeStreak(3)" :style="showAllTime[3] ? styleButtonSelected : null" class="selector">        
+        Winless
+      </div>
+      <div @click="showAllTimeStreak(4)" style="padding-right: 10px; ":style="showAllTime[4] ? styleButtonSelected : null" class="selector">        
+        Drawing
       </div>
     </div>
+
+
     <div v-for="(streakType, i) in streakTypes" style="width: 100%">
       <div v-show="showAllTime[i]" class="table-container">
         <StreakTable :streaks="streaks.all_time[streakType]" :showEnd="true" />
@@ -63,7 +83,7 @@ import StreakTable from './components/StreakTable.vue'
 import streaks from './data/streaks.json'
 const streakTypes = ['Unbeaten', 'Winning', 'Losing', 'Winless', 'Drawing']
 const lastUpdate = new Date(streaks.date_updated).toLocaleString('es-MX', { timeZoneName: 'short' })
-const styleButtonSelected = 'font-weight: bold; background-color:mediumblue;'
+const styleButtonSelected = 'font-weight: bold; color: white; border-bottom: 2px solid white;'
 
 // const maxLenghtAllTime = getMaxLenStreak(streaks.all_time)
 // const maxLenghtActive = getMaxLenStreak(streaks.active)
@@ -126,27 +146,23 @@ h2 {
 }
 
 .button-type-container {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  padding: 5px;
+  display: grid;  
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  text-align: center;
+  width: 100%;
+  padding-top: 15px;
+  
+  color: rgb(160, 161, 175);
+  background-color: rgb(16, 18, 24);
+  border-bottom: 1px solid rgb(54, 58, 66);
 }
 
-.button-type-container button {
-  color: white;
-  background-color: darkblue;
-  border: 2px solid black;
-  width: auto;
-  border-radius: 5px;
+.selector{
+  height: 100%;
+  padding-bottom: 15px;
   cursor: pointer;
-  font-size: medium;
-  margin: 5px;
 }
 
-.button-type-container button:hover {
-  background-color: mediumblue;
-}
 
 a:link {
   color: white;
@@ -173,7 +189,6 @@ a:active {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 5px;
   width: 100%;
 }
 
