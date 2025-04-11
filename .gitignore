@@ -22,7 +22,8 @@ __pycache__
 *.csv
 *.ipynb
 *.zip
-*.json
+kaggle.json
+streaks.json
 test.py
 
 streaks_fe/.gitignore
