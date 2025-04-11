@@ -3,54 +3,51 @@
     <thead>
       <tr class="top-header">
         <td class="side-col"></td>
-        <td>Country</td>
+        <td style="text-align: left;">Country</td>
         <td>Total</td>
         <td>Record (W-D-L)</td>
         <td>Date Started</td>
-        <td>{{ showEnd ? 'Date Ended' : 'Details' }}</td>
+        <td>Date Ended</td>
         <td class="side-col"></td>
       </tr>
     </thead>
     <tbody>
       <template class="temp" v-for="(streak, i) in streaks">
-        <tr class="streak">
+        <tr class="streak" @click="showDetails[i] = !showDetails[i]">
           <td class="side-col"></td>
-          <td>{{ streak.country }}</td>
+          <td style="display: flex; padding-left: 10px; align-items: center;">
+            <div style="text-align: center; padding-right: 5px;">
+              {{i+1}}
+            </div>
+            <div style="text-align: left; white-space: nowrap; overflow: hidden;text-overflow: ellipsis;" :title="streak.country">
+              {{streak.country}}
+            </div>              
+          </td>
           <td>{{ streak.total }}</td>
           <td>{{ streak.wins }}-{{ streak.draws }}-{{ streak.losses }}</td>
           <td>{{ streak.date_started }}</td>
           <td>
-            {{ streak.details_end.date }}
-            <button @click="showDetails[i] = !showDetails[i]" class="show-matches">
-              {{ showDetails[i] ? 'Hide matches' : '⌄' }}
-            </button>
+            {{ streak.details_end.date ? streak.details_end.date: '-'}}            
           </td>
           <td class="side-col"></td>
         </tr>
         <tr class="details-header" v-show="showDetails[i]">
           <td class="side-col"></td>
-          <td>Date match</td>
-          <td>Home team</td>
+          <td>Match Date</td>
+          <td>Home Team</td>
           <td>Result</td>
           <td>Away Team</td>
           <td>Tournament</td>
           <td class="side-col"></td>
         </tr>
-        <tr class="details" v-show="showDetails[i]" v-for="(detail, j) in streak.details_streak">
+        <tr class="details" v-show="showDetails[i]" @click="showDetails[i] = !showDetails[i]" v-for="(detail, j) in streak.details_streak">
           <td class="side-col"></td>
           <td>{{ detail.date }}</td>
           <td :style="countryBold(streak.country, detail.home_team)">{{ detail.home_team }}</td>
           <td>{{ detail.home_score }} - {{ detail.away_score }}</td>
           <td :style="countryBold(streak.country, detail.away_team)">{{ detail.away_team }}</td>
-          <td style="overflow-wrap: break-word">
+          <td style="white-space: nowrap; overflow: hidden;text-overflow: ellipsis;" :title="detail.tournament">
             {{ detail.tournament }}
-            <button
-              v-if="j == streak.details_streak.length - 1 && !showEnd"
-              @click="showDetails[i] = !showDetails[i]"
-              class="show-matches"
-            >
-              Hide matches
-            </button>
           </td>
           <td class="side-col"></td>
         </tr>
@@ -60,6 +57,7 @@
           v-if="showEnd"
           v-show="showDetails[i]"
           title="Match that ended the streak"
+          @click="showDetails[i] = !showDetails[i]"
         >
         <td class="side-col"></td>
           <td>{{ streak.details_end.date }}</td>
@@ -70,18 +68,12 @@
           <td :style="countryBold(streak.country, streak.details_end.away_team)">
             {{ streak.details_end.away_team }}
           </td>
-          <td>
+          <td :title="streak.details_end.tournament">
             {{ streak.details_end.tournament }}
-            <button @click="showDetails[i] = !showDetails[i]" class="show-matches">
-              Hide matches
-            </button>
           </td>
           <td class="side-col"></td>
         </tr>
       </template>
-      <!-- <tr v-show="showFiller" class="filler" v-for="n in diff" style="color: white">
-        <td colspan="1">{{ '\u00A0' }}</td>
-      </tr> -->
     </tbody>
   </table>
 </template>
@@ -89,10 +81,6 @@
 <script setup>
 import { ref, defineProps, computed } from 'vue'
 const showDetails = ref(Array(streaks.length).fill(false))
-
-// const showFiller = computed(() => {
-//   return showDetails.value.every((val) => val === false)
-// })
 
 const { streaks, showEnd } = defineProps(['streaks', 'maxLen', 'showEnd'])
 
@@ -104,6 +92,7 @@ function countryBold(a, b) {
 </script>
 
 <style scoped>
+
 .top-header{
   font-size: smaller;
   color: rgb(160, 161, 175);
@@ -122,6 +111,7 @@ function countryBold(a, b) {
 }
 
 .streak {
+  cursor: pointer;
   background-color: rgb(16, 18, 24);
   border-bottom: 1px solid rgb(54, 58, 66);
 }
@@ -146,8 +136,16 @@ function countryBold(a, b) {
   background-color: rgb(2, 52, 10);
 }
 
+.details:hover{
+  background-color: rgb(38, 91, 38);
+}
+
 .end-streak {
   font-size: small;
+  background-color: rgb(164, 51, 62);
+}
+
+.end-streak:hover {
   background-color: rgb(199, 61, 75);
 }
 
@@ -170,15 +168,8 @@ table {
   table-layout: fixed;
   border-collapse: collapse;
   text-align: center;
+  border-color: white;
 }
 
-
-
-
-/* .filler {
-  -webkit-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-} */
 
 </style>
