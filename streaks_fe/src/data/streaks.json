@@ -1,5 +1,5 @@
 {
-    "date_updated": "2025-07-13T23:41:18.950852-06:00",
+    "date_updated": "2025-07-20T23:41:19.299134-06:00",
     "all_time": {
         "Unbeaten": [
             {
@@ -26929,162 +26929,6 @@
                 "details_end": {}
             },
             {
-                "country": "South Korea",
-                "current": true,
-                "total": 16,
-                "wins": 11,
-                "draws": 5,
-                "losses": 0,
-                "date_started": "2024-03-21",
-                "details_streak": [
-                    {
-                        "date": "2024-03-21",
-                        "home_team": "South Korea",
-                        "away_team": "Thailand",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "World Cup and Asian Cup qual",
-                        "host": "South Korea"
-                    },
-                    {
-                        "date": "2024-03-26",
-                        "home_team": "Thailand",
-                        "away_team": "South Korea",
-                        "home_score": 0,
-                        "away_score": 3,
-                        "tournament": "World Cup and Asian Cup qual",
-                        "host": "Thailand"
-                    },
-                    {
-                        "date": "2024-06-06",
-                        "home_team": "Singapore",
-                        "away_team": "South Korea",
-                        "home_score": 0,
-                        "away_score": 7,
-                        "tournament": "World Cup and Asian Cup qual",
-                        "host": "Singapore"
-                    },
-                    {
-                        "date": "2024-06-11",
-                        "home_team": "South Korea",
-                        "away_team": "China",
-                        "home_score": 1,
-                        "away_score": 0,
-                        "tournament": "World Cup and Asian Cup qual",
-                        "host": "South Korea"
-                    },
-                    {
-                        "date": "2024-09-05",
-                        "home_team": "South Korea",
-                        "away_team": "Palestine",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "South Korea"
-                    },
-                    {
-                        "date": "2024-09-10",
-                        "home_team": "Oman",
-                        "away_team": "South Korea",
-                        "home_score": 1,
-                        "away_score": 3,
-                        "tournament": "World Cup qualifier",
-                        "host": "Oman"
-                    },
-                    {
-                        "date": "2024-10-10",
-                        "home_team": "Jordan",
-                        "away_team": "South Korea",
-                        "home_score": 0,
-                        "away_score": 2,
-                        "tournament": "World Cup qualifier",
-                        "host": "Jordan"
-                    },
-                    {
-                        "date": "2024-10-15",
-                        "home_team": "South Korea",
-                        "away_team": "Iraq",
-                        "home_score": 3,
-                        "away_score": 2,
-                        "tournament": "World Cup qualifier",
-                        "host": "South Korea"
-                    },
-                    {
-                        "date": "2024-11-14",
-                        "home_team": "Kuwait",
-                        "away_team": "South Korea",
-                        "home_score": 1,
-                        "away_score": 3,
-                        "tournament": "World Cup qualifier",
-                        "host": "Kuwait"
-                    },
-                    {
-                        "date": "2024-11-19",
-                        "home_team": "Palestine",
-                        "away_team": "South Korea",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "World Cup qualifier",
-                        "host": "Jordan"
-                    },
-                    {
-                        "date": "2025-03-20",
-                        "home_team": "South Korea",
-                        "away_team": "Oman",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "World Cup qualifier",
-                        "host": "South Korea"
-                    },
-                    {
-                        "date": "2025-03-25",
-                        "home_team": "South Korea",
-                        "away_team": "Jordan",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "World Cup qualifier",
-                        "host": "South Korea"
-                    },
-                    {
-                        "date": "2025-06-05",
-                        "home_team": "Iraq",
-                        "away_team": "South Korea",
-                        "home_score": 0,
-                        "away_score": 2,
-                        "tournament": "World Cup qualifier",
-                        "host": "Iraq"
-                    },
-                    {
-                        "date": "2025-06-10",
-                        "home_team": "South Korea",
-                        "away_team": "Kuwait",
-                        "home_score": 4,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "South Korea"
-                    },
-                    {
-                        "date": "2025-07-07",
-                        "home_team": "South Korea",
-                        "away_team": "China",
-                        "home_score": 3,
-                        "away_score": 0,
-                        "tournament": "East Asian Championship",
-                        "host": "South Korea"
-                    },
-                    {
-                        "date": "2025-07-11",
-                        "home_team": "South Korea",
-                        "away_team": "Hong Kong",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "East Asian Championship",
-                        "host": "South Korea"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
                 "country": "Morocco",
                 "current": true,
                 "total": 14,
@@ -27216,6 +27060,126 @@
                         "away_team": "Benin",
                         "home_score": 1,
                         "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Morocco"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Cameroon",
+                "current": true,
+                "total": 12,
+                "wins": 7,
+                "draws": 5,
+                "losses": 0,
+                "date_started": "2024-06-08",
+                "details_streak": [
+                    {
+                        "date": "2024-06-08",
+                        "home_team": "Cameroon",
+                        "away_team": "Cape Verde",
+                        "home_score": 4,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Cameroon"
+                    },
+                    {
+                        "date": "2024-06-11",
+                        "home_team": "Angola",
+                        "away_team": "Cameroon",
+                        "home_score": 1,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Angola"
+                    },
+                    {
+                        "date": "2024-09-07",
+                        "home_team": "Cameroon",
+                        "away_team": "Namibia",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "Cameroon"
+                    },
+                    {
+                        "date": "2024-09-10",
+                        "home_team": "Cameroon",
+                        "away_team": "Zimbabwe",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "Uganda"
+                    },
+                    {
+                        "date": "2024-10-11",
+                        "home_team": "Cameroon",
+                        "away_team": "Kenya",
+                        "home_score": 4,
+                        "away_score": 1,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "Cameroon"
+                    },
+                    {
+                        "date": "2024-10-14",
+                        "home_team": "Cameroon",
+                        "away_team": "Kenya",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "Uganda"
+                    },
+                    {
+                        "date": "2024-11-13",
+                        "home_team": "Cameroon",
+                        "away_team": "Namibia",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "South Africa"
+                    },
+                    {
+                        "date": "2024-11-19",
+                        "home_team": "Cameroon",
+                        "away_team": "Zimbabwe",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "Cameroon"
+                    },
+                    {
+                        "date": "2025-03-19",
+                        "home_team": "Cameroon",
+                        "away_team": "Eswatini",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "South Africa"
+                    },
+                    {
+                        "date": "2025-03-25",
+                        "home_team": "Cameroon",
+                        "away_team": "Libya",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Cameroon"
+                    },
+                    {
+                        "date": "2025-06-06",
+                        "home_team": "Cameroon",
+                        "away_team": "Uganda",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2025-06-09",
+                        "home_team": "Cameroon",
+                        "away_team": "Equatorial Guinea",
+                        "home_score": 1,
+                        "away_score": 1,
                         "tournament": "Friendly",
                         "host": "Morocco"
                     }
@@ -27516,47 +27480,47 @@
                 "details_end": {}
             },
             {
-                "country": "South Korea",
+                "country": "Japan",
                 "current": true,
                 "total": 4,
                 "wins": 4,
                 "draws": 0,
                 "losses": 0,
-                "date_started": "2025-06-05",
+                "date_started": "2025-06-10",
                 "details_streak": [
                     {
-                        "date": "2025-06-05",
-                        "home_team": "Iraq",
-                        "away_team": "South Korea",
-                        "home_score": 0,
-                        "away_score": 2,
-                        "tournament": "World Cup qualifier",
-                        "host": "Iraq"
-                    },
-                    {
                         "date": "2025-06-10",
-                        "home_team": "South Korea",
-                        "away_team": "Kuwait",
-                        "home_score": 4,
+                        "home_team": "Japan",
+                        "away_team": "Indonesia",
+                        "home_score": 6,
                         "away_score": 0,
                         "tournament": "World Cup qualifier",
+                        "host": "Japan"
+                    },
+                    {
+                        "date": "2025-07-08",
+                        "home_team": "Japan",
+                        "away_team": "Hong Kong",
+                        "home_score": 6,
+                        "away_score": 1,
+                        "tournament": "East Asian Championship",
                         "host": "South Korea"
                     },
                     {
-                        "date": "2025-07-07",
-                        "home_team": "South Korea",
+                        "date": "2025-07-12",
+                        "home_team": "Japan",
                         "away_team": "China",
-                        "home_score": 3,
+                        "home_score": 2,
                         "away_score": 0,
                         "tournament": "East Asian Championship",
                         "host": "South Korea"
                     },
                     {
-                        "date": "2025-07-11",
+                        "date": "2025-07-15",
                         "home_team": "South Korea",
-                        "away_team": "Hong Kong",
-                        "home_score": 2,
-                        "away_score": 0,
+                        "away_team": "Japan",
+                        "home_score": 0,
+                        "away_score": 1,
                         "tournament": "East Asian Championship",
                         "host": "South Korea"
                     }
