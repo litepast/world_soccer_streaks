@@ -1,5 +1,5 @@
 {
-    "date_updated": "2025-08-17T23:41:18.876447-06:00",
+    "date_updated": "2025-08-24T23:41:18.820412-06:00",
     "all_time": {
         "Unbeaten": [
             {
@@ -28684,139 +28684,130 @@
                 "details_end": {}
             },
             {
-                "country": "US Virgin Islands",
+                "country": "Antigua and Barbuda",
                 "current": true,
-                "total": 14,
+                "total": 13,
                 "wins": 0,
-                "draws": 4,
+                "draws": 3,
                 "losses": 10,
-                "date_started": "2022-06-11",
+                "date_started": "2023-10-17",
                 "details_streak": [
                     {
-                        "date": "2022-06-11",
-                        "home_team": "US Virgin Islands",
-                        "away_team": "Bonaire",
-                        "home_score": 0,
-                        "away_score": 2,
-                        "tournament": "CONCACAF Nations League C",
-                        "host": "US Virgin Islands"
-                    },
-                    {
-                        "date": "2022-06-14",
-                        "home_team": "Bonaire",
-                        "away_team": "US Virgin Islands",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "CONCACAF Nations League C",
-                        "host": "Cura\u00e7ao"
-                    },
-                    {
-                        "date": "2023-03-25",
-                        "home_team": "Turks and Caicos Islands",
-                        "away_team": "US Virgin Islands",
-                        "home_score": 1,
-                        "away_score": 0,
-                        "tournament": "CONCACAF Nations League C",
-                        "host": "Turks and Caicos Islands"
-                    },
-                    {
-                        "date": "2023-03-28",
-                        "home_team": "US Virgin Islands",
-                        "away_team": "Sint Maarten",
-                        "home_score": 1,
-                        "away_score": 2,
-                        "tournament": "CONCACAF Nations League C",
-                        "host": "US Virgin Islands"
-                    },
-                    {
-                        "date": "2023-09-07",
-                        "home_team": "US Virgin Islands",
-                        "away_team": "Cayman Islands",
-                        "home_score": 2,
-                        "away_score": 2,
-                        "tournament": "CONCACAF Nations League C",
-                        "host": "US Virgin Islands"
-                    },
-                    {
-                        "date": "2023-10-14",
-                        "home_team": "Aruba",
-                        "away_team": "US Virgin Islands",
-                        "home_score": 3,
-                        "away_score": 1,
-                        "tournament": "CONCACAF Nations League C",
-                        "host": "Aruba"
-                    },
-                    {
                         "date": "2023-10-17",
-                        "home_team": "Cayman Islands",
-                        "away_team": "US Virgin Islands",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Bahamas",
                         "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2023-11-18",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Puerto Rico",
+                        "home_score": 2,
+                        "away_score": 3,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2023-11-21",
+                        "home_team": "Guyana",
+                        "away_team": "Antigua and Barbuda",
+                        "home_score": 6,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Dominican Republic"
+                    },
+                    {
+                        "date": "2024-06-05",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Bermuda",
+                        "home_score": 1,
                         "away_score": 1,
-                        "tournament": "CONCACAF Nations League C",
+                        "tournament": "World Cup qualifier",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2024-06-08",
+                        "home_team": "Cayman Islands",
+                        "away_team": "Antigua and Barbuda",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
                         "host": "Cayman Islands"
                     },
                     {
-                        "date": "2023-11-16",
-                        "home_team": "US Virgin Islands",
-                        "away_team": "Aruba",
+                        "date": "2024-09-07",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Dominica",
                         "home_score": 1,
-                        "away_score": 4,
-                        "tournament": "CONCACAF Nations League C",
-                        "host": "US Virgin Islands"
-                    },
-                    {
-                        "date": "2024-03-22",
-                        "home_team": "US Virgin Islands",
-                        "away_team": "British Virgin Islands",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "World Cup qualifier",
-                        "host": "US Virgin Islands"
-                    },
-                    {
-                        "date": "2024-03-26",
-                        "home_team": "British Virgin Islands",
-                        "away_team": "US Virgin Islands",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "British Virgin Islands"
-                    },
-                    {
-                        "date": "2024-09-04",
-                        "home_team": "US Virgin Islands",
-                        "away_team": "Bahamas",
-                        "home_score": 3,
-                        "away_score": 3,
-                        "tournament": "CONCACAF Nations League C",
-                        "host": "US Virgin Islands"
+                        "away_score": 2,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Antigua and Barbuda"
                     },
                     {
                         "date": "2024-09-10",
-                        "home_team": "US Virgin Islands",
-                        "away_team": "Barbados",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Bermuda",
                         "home_score": 0,
-                        "away_score": 3,
-                        "tournament": "CONCACAF Nations League C",
-                        "host": "US Virgin Islands"
-                    },
-                    {
-                        "date": "2024-10-09",
-                        "home_team": "Barbados",
-                        "away_team": "US Virgin Islands",
-                        "home_score": 5,
-                        "away_score": 0,
-                        "tournament": "CONCACAF Nations League C",
-                        "host": "Barbados"
+                        "away_score": 1,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Antigua and Barbuda"
                     },
                     {
                         "date": "2024-10-12",
-                        "home_team": "Bahamas",
-                        "away_team": "US Virgin Islands",
-                        "home_score": 3,
+                        "home_team": "Dominican Republic",
+                        "away_team": "Antigua and Barbuda",
+                        "home_score": 5,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Bermuda"
+                    },
+                    {
+                        "date": "2024-10-15",
+                        "home_team": "Dominican Republic",
+                        "away_team": "Antigua and Barbuda",
+                        "home_score": 5,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Bermuda"
+                    },
+                    {
+                        "date": "2024-11-16",
+                        "home_team": "Bermuda",
+                        "away_team": "Antigua and Barbuda",
+                        "home_score": 2,
                         "away_score": 1,
-                        "tournament": "CONCACAF Nations League C",
-                        "host": "Barbados"
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Dominican Republic"
+                    },
+                    {
+                        "date": "2024-11-19",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Dominica",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Dominican Republic"
+                    },
+                    {
+                        "date": "2025-06-06",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Cuba",
+                        "home_score": 0,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2025-06-10",
+                        "home_team": "Honduras",
+                        "away_team": "Antigua and Barbuda",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Honduras"
                     }
                 ],
                 "details_end": {}
