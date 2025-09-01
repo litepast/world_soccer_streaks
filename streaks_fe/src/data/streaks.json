@@ -1,5 +1,5 @@
 {
-    "date_updated": "2025-08-24T23:41:18.820412-06:00",
+    "date_updated": "2025-08-31T23:41:18.725268-06:00",
     "all_time": {
         "Unbeaten": [
             {
@@ -27794,6 +27794,81 @@
                 "details_end": {}
             },
             {
+                "country": "Afghanistan",
+                "current": true,
+                "total": 7,
+                "wins": 0,
+                "draws": 0,
+                "losses": 7,
+                "date_started": "2024-06-11",
+                "details_streak": [
+                    {
+                        "date": "2024-06-11",
+                        "home_team": "Kuwait",
+                        "away_team": "Afghanistan",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "World Cup and Asian Cup qual",
+                        "host": "Kuwait"
+                    },
+                    {
+                        "date": "2024-11-16",
+                        "home_team": "Nepal",
+                        "away_team": "Afghanistan",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "Friendly tournament",
+                        "host": "Tajikistan"
+                    },
+                    {
+                        "date": "2024-11-19",
+                        "home_team": "Tajikistan",
+                        "away_team": "Afghanistan",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "Friendly tournament",
+                        "host": "Tajikistan"
+                    },
+                    {
+                        "date": "2025-03-21",
+                        "home_team": "Thailand",
+                        "away_team": "Afghanistan",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Thailand"
+                    },
+                    {
+                        "date": "2025-03-25",
+                        "home_team": "Myanmar",
+                        "away_team": "Afghanistan",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Myanmar"
+                    },
+                    {
+                        "date": "2025-06-10",
+                        "home_team": "Syria",
+                        "away_team": "Afghanistan",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Saudi Arabia"
+                    },
+                    {
+                        "date": "2025-08-29",
+                        "home_team": "Iran",
+                        "away_team": "Afghanistan",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "Central Asian Nations Cup",
+                        "host": "Tajikistan"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
                 "country": "Greenland",
                 "current": true,
                 "total": 7,
@@ -27864,72 +27939,6 @@
                         "away_score": 0,
                         "tournament": "Friendly",
                         "host": "Turkey"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Afghanistan",
-                "current": true,
-                "total": 6,
-                "wins": 0,
-                "draws": 0,
-                "losses": 6,
-                "date_started": "2024-06-11",
-                "details_streak": [
-                    {
-                        "date": "2024-06-11",
-                        "home_team": "Kuwait",
-                        "away_team": "Afghanistan",
-                        "home_score": 1,
-                        "away_score": 0,
-                        "tournament": "World Cup and Asian Cup qual",
-                        "host": "Kuwait"
-                    },
-                    {
-                        "date": "2024-11-16",
-                        "home_team": "Nepal",
-                        "away_team": "Afghanistan",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "Friendly tournament",
-                        "host": "Tajikistan"
-                    },
-                    {
-                        "date": "2024-11-19",
-                        "home_team": "Tajikistan",
-                        "away_team": "Afghanistan",
-                        "home_score": 3,
-                        "away_score": 1,
-                        "tournament": "Friendly tournament",
-                        "host": "Tajikistan"
-                    },
-                    {
-                        "date": "2025-03-21",
-                        "home_team": "Thailand",
-                        "away_team": "Afghanistan",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "Thailand"
-                    },
-                    {
-                        "date": "2025-03-25",
-                        "home_team": "Myanmar",
-                        "away_team": "Afghanistan",
-                        "home_score": 2,
-                        "away_score": 1,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Myanmar"
-                    },
-                    {
-                        "date": "2025-06-10",
-                        "home_team": "Syria",
-                        "away_team": "Afghanistan",
-                        "home_score": 1,
-                        "away_score": 0,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Saudi Arabia"
                     }
                 ],
                 "details_end": {}
@@ -29023,6 +29032,45 @@
                         "away_score": 1,
                         "tournament": "Independence Cup",
                         "host": "Malawi"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Kyrgyzstan",
+                "current": true,
+                "total": 3,
+                "wins": 0,
+                "draws": 3,
+                "losses": 0,
+                "date_started": "2025-06-05",
+                "details_streak": [
+                    {
+                        "date": "2025-06-05",
+                        "home_team": "Kyrgyzstan",
+                        "away_team": "North Korea",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "World Cup qualifier",
+                        "host": "Saudi Arabia"
+                    },
+                    {
+                        "date": "2025-06-10",
+                        "home_team": "Kyrgyzstan",
+                        "away_team": "United Arab Emirates",
+                        "home_score": 1,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Kyrgyzstan"
+                    },
+                    {
+                        "date": "2025-08-30",
+                        "home_team": "Kyrgyzstan",
+                        "away_team": "Turkmenistan",
+                        "home_score": 1,
+                        "away_score": 1,
+                        "tournament": "Central Asian Nations Cup",
+                        "host": "Uzbekistan"
                     }
                 ],
                 "details_end": {}
