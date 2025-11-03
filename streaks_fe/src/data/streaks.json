@@ -1,5 +1,5 @@
 {
-    "date_updated": "2025-10-26T23:41:19.377321-06:00",
+    "date_updated": "2025-11-02T23:41:19.372330-06:00",
     "all_time": {
         "Unbeaten": [
             {
@@ -27163,6 +27163,63 @@
                         "away_score": 0,
                         "tournament": "Friendly",
                         "host": "Grenada"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Tunisia",
+                "current": true,
+                "total": 5,
+                "wins": 5,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2025-09-04",
+                "details_streak": [
+                    {
+                        "date": "2025-09-04",
+                        "home_team": "Tunisia",
+                        "away_team": "Liberia",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Tunisia"
+                    },
+                    {
+                        "date": "2025-09-08",
+                        "home_team": "Equatorial Guinea",
+                        "away_team": "Tunisia",
+                        "home_score": 0,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Equatorial Guinea"
+                    },
+                    {
+                        "date": "2025-10-10",
+                        "home_team": "Tunisia",
+                        "away_team": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+                        "home_score": 6,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Tunisia"
+                    },
+                    {
+                        "date": "2025-10-13",
+                        "home_team": "Tunisia",
+                        "away_team": "Namibia",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Tunisia"
+                    },
+                    {
+                        "date": "2025-10-10",
+                        "home_team": "Tunisia",
+                        "away_team": "S\u00e3o Tome and Principe",
+                        "home_score": 6,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Tunisia"
                     }
                 ],
                 "details_end": {}
