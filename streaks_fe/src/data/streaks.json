@@ -1,5 +1,5 @@
 {
-    "date_updated": "2025-11-23T23:41:19.005345-06:00",
+    "date_updated": "2025-11-30T23:41:18.887825-06:00",
     "all_time": {
         "Unbeaten": [
             {
@@ -27546,6 +27546,63 @@
                     }
                 ],
                 "details_end": {}
+            },
+            {
+                "country": "Guyana",
+                "current": true,
+                "total": 5,
+                "wins": 5,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2025-06-10",
+                "details_streak": [
+                    {
+                        "date": "2025-06-10",
+                        "home_team": "Guyana",
+                        "away_team": "Montserrat",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Guyana"
+                    },
+                    {
+                        "date": "2025-11-15",
+                        "home_team": "Guyana",
+                        "away_team": "Bonaire",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Friendly tournament",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Guyana",
+                        "home_score": 1,
+                        "away_score": 4,
+                        "tournament": "Friendly tournament",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2025-11-15",
+                        "home_team": "Guyana",
+                        "away_team": "Bonaire",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "CONCACAF Series",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Guyana",
+                        "home_score": 1,
+                        "away_score": 4,
+                        "tournament": "CONCACAF Series",
+                        "host": "Antigua and Barbuda"
+                    }
+                ],
+                "details_end": {}
             }
         ],
         "Losing": [
@@ -28749,157 +28806,166 @@
                 "details_end": {}
             },
             {
-                "country": "Azerbaijan",
+                "country": "Antigua and Barbuda",
                 "current": true,
-                "total": 16,
+                "total": 17,
                 "wins": 0,
-                "draws": 3,
-                "losses": 13,
-                "date_started": "2024-09-05",
+                "draws": 5,
+                "losses": 12,
+                "date_started": "2023-10-17",
                 "details_streak": [
                     {
-                        "date": "2024-09-05",
-                        "home_team": "Azerbaijan",
-                        "away_team": "Sweden",
-                        "home_score": 1,
-                        "away_score": 3,
-                        "tournament": "European Nations League C",
-                        "host": "Azerbaijan"
-                    },
-                    {
-                        "date": "2024-09-08",
-                        "home_team": "Slovakia",
-                        "away_team": "Azerbaijan",
+                        "date": "2023-10-17",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Bahamas",
                         "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "European Nations League C",
-                        "host": "Slovakia"
+                        "away_score": 2,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Antigua and Barbuda"
                     },
                     {
-                        "date": "2024-10-11",
-                        "home_team": "Estonia",
-                        "away_team": "Azerbaijan",
-                        "home_score": 3,
-                        "away_score": 1,
-                        "tournament": "European Nations League C",
-                        "host": "Estonia"
-                    },
-                    {
-                        "date": "2024-10-14",
-                        "home_team": "Azerbaijan",
-                        "away_team": "Slovakia",
-                        "home_score": 1,
+                        "date": "2023-11-18",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Puerto Rico",
+                        "home_score": 2,
                         "away_score": 3,
-                        "tournament": "European Nations League C",
-                        "host": "Azerbaijan"
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2023-11-21",
+                        "home_team": "Guyana",
+                        "away_team": "Antigua and Barbuda",
+                        "home_score": 6,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Dominican Republic"
+                    },
+                    {
+                        "date": "2024-06-05",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Bermuda",
+                        "home_score": 1,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2024-06-08",
+                        "home_team": "Cayman Islands",
+                        "away_team": "Antigua and Barbuda",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Cayman Islands"
+                    },
+                    {
+                        "date": "2024-09-07",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Dominica",
+                        "home_score": 1,
+                        "away_score": 2,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2024-09-10",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Bermuda",
+                        "home_score": 0,
+                        "away_score": 1,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2024-10-12",
+                        "home_team": "Dominican Republic",
+                        "away_team": "Antigua and Barbuda",
+                        "home_score": 5,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Bermuda"
+                    },
+                    {
+                        "date": "2024-10-15",
+                        "home_team": "Dominican Republic",
+                        "away_team": "Antigua and Barbuda",
+                        "home_score": 5,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Bermuda"
                     },
                     {
                         "date": "2024-11-16",
-                        "home_team": "Azerbaijan",
-                        "away_team": "Estonia",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "European Nations League C",
-                        "host": "Azerbaijan"
+                        "home_team": "Bermuda",
+                        "away_team": "Antigua and Barbuda",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Dominican Republic"
                     },
                     {
                         "date": "2024-11-19",
-                        "home_team": "Sweden",
-                        "away_team": "Azerbaijan",
-                        "home_score": 6,
-                        "away_score": 0,
-                        "tournament": "European Nations League C",
-                        "host": "Sweden"
-                    },
-                    {
-                        "date": "2025-03-22",
-                        "home_team": "Azerbaijan",
-                        "away_team": "Haiti",
-                        "home_score": 0,
-                        "away_score": 3,
-                        "tournament": "Friendly",
-                        "host": "Azerbaijan"
-                    },
-                    {
-                        "date": "2025-03-25",
-                        "home_team": "Azerbaijan",
-                        "away_team": "Belarus",
-                        "home_score": 0,
-                        "away_score": 2,
-                        "tournament": "Friendly",
-                        "host": "Azerbaijan"
-                    },
-                    {
-                        "date": "2025-06-07",
-                        "home_team": "Latvia",
-                        "away_team": "Azerbaijan",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Dominica",
                         "home_score": 0,
                         "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "Latvia"
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Dominican Republic"
+                    },
+                    {
+                        "date": "2025-06-06",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Cuba",
+                        "home_score": 0,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Antigua and Barbuda"
                     },
                     {
                         "date": "2025-06-10",
-                        "home_team": "Azerbaijan",
-                        "away_team": "Hungary",
-                        "home_score": 1,
-                        "away_score": 2,
-                        "tournament": "Friendly",
-                        "host": "Azerbaijan"
-                    },
-                    {
-                        "date": "2025-09-05",
-                        "home_team": "Iceland",
-                        "away_team": "Azerbaijan",
-                        "home_score": 5,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Iceland"
-                    },
-                    {
-                        "date": "2025-09-09",
-                        "home_team": "Azerbaijan",
-                        "away_team": "Ukraine",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "World Cup qualifier",
-                        "host": "Azerbaijan"
-                    },
-                    {
-                        "date": "2025-10-10",
-                        "home_team": "France",
-                        "away_team": "Azerbaijan",
-                        "home_score": 3,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "France"
-                    },
-                    {
-                        "date": "2025-10-13",
-                        "home_team": "Ukraine",
-                        "away_team": "Azerbaijan",
+                        "home_team": "Honduras",
+                        "away_team": "Antigua and Barbuda",
                         "home_score": 2,
-                        "away_score": 1,
+                        "away_score": 0,
                         "tournament": "World Cup qualifier",
-                        "host": "Poland"
+                        "host": "Honduras"
                     },
                     {
-                        "date": "2025-11-13",
-                        "home_team": "Azerbaijan",
-                        "away_team": "Iceland",
+                        "date": "2025-11-12",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Aruba",
                         "home_score": 0,
-                        "away_score": 2,
-                        "tournament": "World Cup qualifier",
-                        "host": "Azerbaijan"
+                        "away_score": 0,
+                        "tournament": "Friendly tournament",
+                        "host": "Antigua and Barbuda"
                     },
                     {
-                        "date": "2025-11-16",
-                        "home_team": "Azerbaijan",
-                        "away_team": "France",
+                        "date": "2025-11-18",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Guyana",
                         "home_score": 1,
-                        "away_score": 3,
-                        "tournament": "World Cup qualifier",
-                        "host": "Azerbaijan"
+                        "away_score": 4,
+                        "tournament": "Friendly tournament",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2025-11-12",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Aruba",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Series",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Guyana",
+                        "home_score": 1,
+                        "away_score": 4,
+                        "tournament": "CONCACAF Series",
+                        "host": "Antigua and Barbuda"
                     }
                 ],
                 "details_end": {}
