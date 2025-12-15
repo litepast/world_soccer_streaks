@@ -1,5 +1,5 @@
 {
-    "date_updated": "2025-12-07T23:41:18.989393-06:00",
+    "date_updated": "2025-12-14T23:41:18.951684-06:00",
     "all_time": {
         "Unbeaten": [
             {
@@ -26437,8 +26437,8 @@
             {
                 "country": "Morocco",
                 "current": true,
-                "total": 22,
-                "wins": 20,
+                "total": 24,
+                "wins": 22,
                 "draws": 2,
                 "losses": 0,
                 "date_started": "2024-03-22",
@@ -26637,6 +26637,24 @@
                         "home_team": "Morocco",
                         "away_team": "Oman",
                         "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "Arab Cup",
+                        "host": "Qatar"
+                    },
+                    {
+                        "date": "2025-12-08",
+                        "home_team": "Morocco",
+                        "away_team": "Saudi Arabia",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "Arab Cup",
+                        "host": "Qatar"
+                    },
+                    {
+                        "date": "2025-12-11",
+                        "home_team": "Morocco",
+                        "away_team": "Syria",
+                        "home_score": 1,
                         "away_score": 0,
                         "tournament": "Arab Cup",
                         "host": "Qatar"
@@ -28834,45 +28852,6 @@
         ],
         "Drawing": [
             {
-                "country": "Egypt",
-                "current": true,
-                "total": 3,
-                "wins": 0,
-                "draws": 3,
-                "losses": 0,
-                "date_started": "2025-11-17",
-                "details_streak": [
-                    {
-                        "date": "2025-11-17",
-                        "home_team": "Cape Verde",
-                        "away_team": "Egypt",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "Friendly tournament",
-                        "host": "United Arab Emirates"
-                    },
-                    {
-                        "date": "2025-12-02",
-                        "home_team": "Egypt",
-                        "away_team": "Kuwait",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "Arab Cup",
-                        "host": "Qatar"
-                    },
-                    {
-                        "date": "2025-12-06",
-                        "home_team": "Egypt",
-                        "away_team": "United Arab Emirates",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "Arab Cup",
-                        "host": "Qatar"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
                 "country": "Afghanistan",
                 "current": true,
                 "total": 3,
@@ -28972,61 +28951,31 @@
                 "details_end": {}
             },
             {
-                "country": "Syria",
+                "country": "Guinea",
                 "current": true,
                 "total": 2,
                 "wins": 0,
                 "draws": 2,
                 "losses": 0,
-                "date_started": "2025-12-04",
+                "date_started": "2025-11-18",
                 "details_streak": [
                     {
-                        "date": "2025-12-04",
-                        "home_team": "Qatar",
-                        "away_team": "Syria",
+                        "date": "2025-11-18",
+                        "home_team": "Guinea",
+                        "away_team": "Niger",
                         "home_score": 1,
                         "away_score": 1,
-                        "tournament": "Arab Cup",
-                        "host": "Qatar"
+                        "tournament": "Friendly",
+                        "host": "Morocco"
                     },
                     {
-                        "date": "2025-12-07",
-                        "home_team": "Palestine",
-                        "away_team": "Syria",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Arab Cup",
-                        "host": "Qatar"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Palestine",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2025-12-04",
-                "details_streak": [
-                    {
-                        "date": "2025-12-04",
-                        "home_team": "Palestine",
-                        "away_team": "Tunisia",
+                        "date": "2025-10-14",
+                        "home_team": "Botswana",
+                        "away_team": "Guinea",
                         "home_score": 2,
                         "away_score": 2,
-                        "tournament": "Arab Cup",
-                        "host": "Qatar"
-                    },
-                    {
-                        "date": "2025-12-07",
-                        "home_team": "Palestine",
-                        "away_team": "Syria",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Arab Cup",
-                        "host": "Qatar"
+                        "tournament": "World Cup qualifier",
+                        "host": "Morocco"
                     }
                 ],
                 "details_end": {}
@@ -29057,6 +29006,36 @@
                         "away_score": 1,
                         "tournament": "Friendly tournament",
                         "host": "United Arab Emirates"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Botswana",
+                "current": true,
+                "total": 2,
+                "wins": 0,
+                "draws": 2,
+                "losses": 0,
+                "date_started": "2025-10-14",
+                "details_streak": [
+                    {
+                        "date": "2025-10-14",
+                        "home_team": "Botswana",
+                        "away_team": "Guinea",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "World Cup qualifier",
+                        "host": "South Africa"
+                    },
+                    {
+                        "date": "2025-10-14",
+                        "home_team": "Botswana",
+                        "away_team": "Guinea",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "World Cup qualifier",
+                        "host": "Morocco"
                     }
                 ],
                 "details_end": {}
