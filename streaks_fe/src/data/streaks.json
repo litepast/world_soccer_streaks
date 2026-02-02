@@ -1,5 +1,5 @@
 {
-    "date_updated": "2026-01-25T23:41:18.999316-06:00",
+    "date_updated": "2026-02-01T23:41:17.947426-06:00",
     "all_time": {
         "Unbeaten": [
             {
@@ -29158,6 +29158,36 @@
                         "away_score": 0,
                         "tournament": "African Nations Cup",
                         "host": "Morocco"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Uzbekistan",
+                "current": true,
+                "total": 2,
+                "wins": 0,
+                "draws": 2,
+                "losses": 0,
+                "date_started": "2025-11-18",
+                "details_streak": [
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Iran",
+                        "away_team": "Uzbekistan",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "Friendly tournament",
+                        "host": "United Arab Emirates"
+                    },
+                    {
+                        "date": "2026-01-26",
+                        "home_team": "China",
+                        "away_team": "Uzbekistan",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "Friendly",
+                        "host": "United Arab Emirates"
                     }
                 ],
                 "details_end": {}
