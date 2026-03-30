@@ -1,5 +1,5 @@
 {
-    "date_updated": "2026-03-22T23:41:19.020655-06:00",
+    "date_updated": "2026-03-29T23:41:17.874566-06:00",
     "all_time": {
         "Unbeaten": [
             {
@@ -4758,6 +4758,261 @@
                 }
             },
             {
+                "country": "Spain",
+                "current": true,
+                "total": 27,
+                "wins": 21,
+                "draws": 6,
+                "losses": 0,
+                "date_started": "2024-03-26",
+                "details_streak": [
+                    {
+                        "date": "2024-03-26",
+                        "home_team": "Spain",
+                        "away_team": "Brazil",
+                        "home_score": 3,
+                        "away_score": 3,
+                        "tournament": "Friendly",
+                        "host": "Spain"
+                    },
+                    {
+                        "date": "2024-06-05",
+                        "home_team": "Spain",
+                        "away_team": "Andorra",
+                        "home_score": 5,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Spain"
+                    },
+                    {
+                        "date": "2024-06-08",
+                        "home_team": "Spain",
+                        "away_team": "Northern Ireland",
+                        "home_score": 5,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "Spain"
+                    },
+                    {
+                        "date": "2024-06-15",
+                        "home_team": "Spain",
+                        "away_team": "Croatia",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "European Championship",
+                        "host": "Germany"
+                    },
+                    {
+                        "date": "2024-06-20",
+                        "home_team": "Spain",
+                        "away_team": "Italy",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "European Championship",
+                        "host": "Germany"
+                    },
+                    {
+                        "date": "2024-06-24",
+                        "home_team": "Spain",
+                        "away_team": "Albania",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "European Championship",
+                        "host": "Germany"
+                    },
+                    {
+                        "date": "2024-06-30",
+                        "home_team": "Spain",
+                        "away_team": "Georgia",
+                        "home_score": 4,
+                        "away_score": 1,
+                        "tournament": "European Championship",
+                        "host": "Germany"
+                    },
+                    {
+                        "date": "2024-07-05",
+                        "home_team": "Germany",
+                        "away_team": "Spain",
+                        "home_score": 1,
+                        "away_score": 2,
+                        "tournament": "European Championship",
+                        "host": "Germany"
+                    },
+                    {
+                        "date": "2024-07-09",
+                        "home_team": "Spain",
+                        "away_team": "France",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "European Championship",
+                        "host": "Germany"
+                    },
+                    {
+                        "date": "2024-07-14",
+                        "home_team": "Spain",
+                        "away_team": "England",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "European Championship",
+                        "host": "Germany"
+                    },
+                    {
+                        "date": "2024-09-05",
+                        "home_team": "Serbia",
+                        "away_team": "Spain",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "European Nations League A",
+                        "host": "Serbia"
+                    },
+                    {
+                        "date": "2024-09-08",
+                        "home_team": "Switzerland",
+                        "away_team": "Spain",
+                        "home_score": 1,
+                        "away_score": 4,
+                        "tournament": "European Nations League A",
+                        "host": "Switzerland"
+                    },
+                    {
+                        "date": "2024-10-12",
+                        "home_team": "Spain",
+                        "away_team": "Denmark",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "European Nations League A",
+                        "host": "Spain"
+                    },
+                    {
+                        "date": "2024-10-15",
+                        "home_team": "Spain",
+                        "away_team": "Serbia",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "European Nations League A",
+                        "host": "Spain"
+                    },
+                    {
+                        "date": "2024-11-15",
+                        "home_team": "Denmark",
+                        "away_team": "Spain",
+                        "home_score": 1,
+                        "away_score": 2,
+                        "tournament": "European Nations League A",
+                        "host": "Denmark"
+                    },
+                    {
+                        "date": "2024-11-18",
+                        "home_team": "Spain",
+                        "away_team": "Switzerland",
+                        "home_score": 3,
+                        "away_score": 2,
+                        "tournament": "European Nations League A",
+                        "host": "Spain"
+                    },
+                    {
+                        "date": "2025-03-20",
+                        "home_team": "Netherlands",
+                        "away_team": "Spain",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "European Nations League",
+                        "host": "Netherlands"
+                    },
+                    {
+                        "date": "2025-03-23",
+                        "home_team": "Spain",
+                        "away_team": "Netherlands",
+                        "home_score": 3,
+                        "away_score": 3,
+                        "tournament": "European Nations League",
+                        "host": "Spain"
+                    },
+                    {
+                        "date": "2025-06-05",
+                        "home_team": "Spain",
+                        "away_team": "France",
+                        "home_score": 5,
+                        "away_score": 4,
+                        "tournament": "European Nations League",
+                        "host": "Germany"
+                    },
+                    {
+                        "date": "2025-06-08",
+                        "home_team": "Portugal",
+                        "away_team": "Spain",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "European Nations League",
+                        "host": "Germany"
+                    },
+                    {
+                        "date": "2025-09-04",
+                        "home_team": "Bulgaria",
+                        "away_team": "Spain",
+                        "home_score": 0,
+                        "away_score": 3,
+                        "tournament": "World Cup qualifier",
+                        "host": "Bulgaria"
+                    },
+                    {
+                        "date": "2025-09-07",
+                        "home_team": "Turkey",
+                        "away_team": "Spain",
+                        "home_score": 0,
+                        "away_score": 6,
+                        "tournament": "World Cup qualifier",
+                        "host": "Turkey"
+                    },
+                    {
+                        "date": "2025-10-11",
+                        "home_team": "Spain",
+                        "away_team": "Georgia",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Spain"
+                    },
+                    {
+                        "date": "2025-10-14",
+                        "home_team": "Spain",
+                        "away_team": "Bulgaria",
+                        "home_score": 4,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Spain"
+                    },
+                    {
+                        "date": "2025-11-15",
+                        "home_team": "Georgia",
+                        "away_team": "Spain",
+                        "home_score": 0,
+                        "away_score": 4,
+                        "tournament": "World Cup qualifier",
+                        "host": "Georgia"
+                    },
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Spain",
+                        "away_team": "Turkey",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "World Cup qualifier",
+                        "host": "Spain"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Spain",
+                        "away_team": "Serbia",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Spain"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
                 "country": "Ivory Coast",
                 "current": true,
                 "total": 27,
@@ -5799,252 +6054,6 @@
                     "tournament": "Confederations Cup",
                     "host": "Brazil"
                 }
-            },
-            {
-                "country": "Spain",
-                "current": true,
-                "total": 26,
-                "wins": 20,
-                "draws": 6,
-                "losses": 0,
-                "date_started": "2024-03-26",
-                "details_streak": [
-                    {
-                        "date": "2024-03-26",
-                        "home_team": "Spain",
-                        "away_team": "Brazil",
-                        "home_score": 3,
-                        "away_score": 3,
-                        "tournament": "Friendly",
-                        "host": "Spain"
-                    },
-                    {
-                        "date": "2024-06-05",
-                        "home_team": "Spain",
-                        "away_team": "Andorra",
-                        "home_score": 5,
-                        "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "Spain"
-                    },
-                    {
-                        "date": "2024-06-08",
-                        "home_team": "Spain",
-                        "away_team": "Northern Ireland",
-                        "home_score": 5,
-                        "away_score": 1,
-                        "tournament": "Friendly",
-                        "host": "Spain"
-                    },
-                    {
-                        "date": "2024-06-15",
-                        "home_team": "Spain",
-                        "away_team": "Croatia",
-                        "home_score": 3,
-                        "away_score": 0,
-                        "tournament": "European Championship",
-                        "host": "Germany"
-                    },
-                    {
-                        "date": "2024-06-20",
-                        "home_team": "Spain",
-                        "away_team": "Italy",
-                        "home_score": 1,
-                        "away_score": 0,
-                        "tournament": "European Championship",
-                        "host": "Germany"
-                    },
-                    {
-                        "date": "2024-06-24",
-                        "home_team": "Spain",
-                        "away_team": "Albania",
-                        "home_score": 1,
-                        "away_score": 0,
-                        "tournament": "European Championship",
-                        "host": "Germany"
-                    },
-                    {
-                        "date": "2024-06-30",
-                        "home_team": "Spain",
-                        "away_team": "Georgia",
-                        "home_score": 4,
-                        "away_score": 1,
-                        "tournament": "European Championship",
-                        "host": "Germany"
-                    },
-                    {
-                        "date": "2024-07-05",
-                        "home_team": "Germany",
-                        "away_team": "Spain",
-                        "home_score": 1,
-                        "away_score": 2,
-                        "tournament": "European Championship",
-                        "host": "Germany"
-                    },
-                    {
-                        "date": "2024-07-09",
-                        "home_team": "Spain",
-                        "away_team": "France",
-                        "home_score": 2,
-                        "away_score": 1,
-                        "tournament": "European Championship",
-                        "host": "Germany"
-                    },
-                    {
-                        "date": "2024-07-14",
-                        "home_team": "Spain",
-                        "away_team": "England",
-                        "home_score": 2,
-                        "away_score": 1,
-                        "tournament": "European Championship",
-                        "host": "Germany"
-                    },
-                    {
-                        "date": "2024-09-05",
-                        "home_team": "Serbia",
-                        "away_team": "Spain",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "European Nations League A",
-                        "host": "Serbia"
-                    },
-                    {
-                        "date": "2024-09-08",
-                        "home_team": "Switzerland",
-                        "away_team": "Spain",
-                        "home_score": 1,
-                        "away_score": 4,
-                        "tournament": "European Nations League A",
-                        "host": "Switzerland"
-                    },
-                    {
-                        "date": "2024-10-12",
-                        "home_team": "Spain",
-                        "away_team": "Denmark",
-                        "home_score": 1,
-                        "away_score": 0,
-                        "tournament": "European Nations League A",
-                        "host": "Spain"
-                    },
-                    {
-                        "date": "2024-10-15",
-                        "home_team": "Spain",
-                        "away_team": "Serbia",
-                        "home_score": 3,
-                        "away_score": 0,
-                        "tournament": "European Nations League A",
-                        "host": "Spain"
-                    },
-                    {
-                        "date": "2024-11-15",
-                        "home_team": "Denmark",
-                        "away_team": "Spain",
-                        "home_score": 1,
-                        "away_score": 2,
-                        "tournament": "European Nations League A",
-                        "host": "Denmark"
-                    },
-                    {
-                        "date": "2024-11-18",
-                        "home_team": "Spain",
-                        "away_team": "Switzerland",
-                        "home_score": 3,
-                        "away_score": 2,
-                        "tournament": "European Nations League A",
-                        "host": "Spain"
-                    },
-                    {
-                        "date": "2025-03-20",
-                        "home_team": "Netherlands",
-                        "away_team": "Spain",
-                        "home_score": 2,
-                        "away_score": 2,
-                        "tournament": "European Nations League",
-                        "host": "Netherlands"
-                    },
-                    {
-                        "date": "2025-03-23",
-                        "home_team": "Spain",
-                        "away_team": "Netherlands",
-                        "home_score": 3,
-                        "away_score": 3,
-                        "tournament": "European Nations League",
-                        "host": "Spain"
-                    },
-                    {
-                        "date": "2025-06-05",
-                        "home_team": "Spain",
-                        "away_team": "France",
-                        "home_score": 5,
-                        "away_score": 4,
-                        "tournament": "European Nations League",
-                        "host": "Germany"
-                    },
-                    {
-                        "date": "2025-06-08",
-                        "home_team": "Portugal",
-                        "away_team": "Spain",
-                        "home_score": 2,
-                        "away_score": 2,
-                        "tournament": "European Nations League",
-                        "host": "Germany"
-                    },
-                    {
-                        "date": "2025-09-04",
-                        "home_team": "Bulgaria",
-                        "away_team": "Spain",
-                        "home_score": 0,
-                        "away_score": 3,
-                        "tournament": "World Cup qualifier",
-                        "host": "Bulgaria"
-                    },
-                    {
-                        "date": "2025-09-07",
-                        "home_team": "Turkey",
-                        "away_team": "Spain",
-                        "home_score": 0,
-                        "away_score": 6,
-                        "tournament": "World Cup qualifier",
-                        "host": "Turkey"
-                    },
-                    {
-                        "date": "2025-10-11",
-                        "home_team": "Spain",
-                        "away_team": "Georgia",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Spain"
-                    },
-                    {
-                        "date": "2025-10-14",
-                        "home_team": "Spain",
-                        "away_team": "Bulgaria",
-                        "home_score": 4,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Spain"
-                    },
-                    {
-                        "date": "2025-11-15",
-                        "home_team": "Georgia",
-                        "away_team": "Spain",
-                        "home_score": 0,
-                        "away_score": 4,
-                        "tournament": "World Cup qualifier",
-                        "host": "Georgia"
-                    },
-                    {
-                        "date": "2025-11-18",
-                        "home_team": "Spain",
-                        "away_team": "Turkey",
-                        "home_score": 2,
-                        "away_score": 2,
-                        "tournament": "World Cup qualifier",
-                        "host": "Spain"
-                    }
-                ],
-                "details_end": {}
             },
             {
                 "country": "Senegal",
@@ -26499,8 +26508,8 @@
             {
                 "country": "Spain",
                 "current": true,
-                "total": 26,
-                "wins": 20,
+                "total": 27,
+                "wins": 21,
                 "draws": 6,
                 "losses": 0,
                 "date_started": "2024-03-26",
@@ -26738,6 +26747,15 @@
                         "away_score": 2,
                         "tournament": "World Cup qualifier",
                         "host": "Spain"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Spain",
+                        "away_team": "Serbia",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Spain"
                     }
                 ],
                 "details_end": {}
@@ -26745,9 +26763,9 @@
             {
                 "country": "Ecuador",
                 "current": true,
-                "total": 15,
+                "total": 16,
                 "wins": 6,
-                "draws": 9,
+                "draws": 10,
                 "losses": 0,
                 "date_started": "2024-09-10",
                 "details_streak": [
@@ -26885,126 +26903,15 @@
                         "away_score": 0,
                         "tournament": "Friendly",
                         "host": "United States"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Norway",
-                "current": true,
-                "total": 12,
-                "wins": 11,
-                "draws": 1,
-                "losses": 0,
-                "date_started": "2024-11-14",
-                "details_streak": [
-                    {
-                        "date": "2024-11-14",
-                        "home_team": "Slovenia",
-                        "away_team": "Norway",
-                        "home_score": 1,
-                        "away_score": 4,
-                        "tournament": "European Nations League B",
-                        "host": "Slovenia"
                     },
                     {
-                        "date": "2024-11-17",
-                        "home_team": "Norway",
-                        "away_team": "Kazakhstan",
-                        "home_score": 5,
-                        "away_score": 0,
-                        "tournament": "European Nations League B",
-                        "host": "Norway"
-                    },
-                    {
-                        "date": "2025-03-22",
-                        "home_team": "Moldova",
-                        "away_team": "Norway",
-                        "home_score": 0,
-                        "away_score": 5,
-                        "tournament": "World Cup qualifier",
-                        "host": "Moldova"
-                    },
-                    {
-                        "date": "2025-03-25",
-                        "home_team": "Norway",
-                        "away_team": "Israel",
-                        "home_score": 4,
-                        "away_score": 2,
-                        "tournament": "World Cup qualifier",
-                        "host": "Hungary"
-                    },
-                    {
-                        "date": "2025-06-06",
-                        "home_team": "Norway",
-                        "away_team": "Italy",
-                        "home_score": 3,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Norway"
-                    },
-                    {
-                        "date": "2025-06-09",
-                        "home_team": "Estonia",
-                        "away_team": "Norway",
-                        "home_score": 0,
-                        "away_score": 1,
-                        "tournament": "World Cup qualifier",
-                        "host": "Estonia"
-                    },
-                    {
-                        "date": "2025-09-04",
-                        "home_team": "Norway",
-                        "away_team": "Finland",
-                        "home_score": 1,
-                        "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "Norway"
-                    },
-                    {
-                        "date": "2025-09-09",
-                        "home_team": "Norway",
-                        "away_team": "Moldova",
-                        "home_score": 11,
-                        "away_score": 1,
-                        "tournament": "World Cup qualifier",
-                        "host": "Norway"
-                    },
-                    {
-                        "date": "2025-10-11",
-                        "home_team": "Norway",
-                        "away_team": "Israel",
-                        "home_score": 5,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Norway"
-                    },
-                    {
-                        "date": "2025-10-14",
-                        "home_team": "Norway",
-                        "away_team": "New Zealand",
+                        "date": "2026-03-27",
+                        "home_team": "Ecuador",
+                        "away_team": "Morocco",
                         "home_score": 1,
                         "away_score": 1,
                         "tournament": "Friendly",
-                        "host": "Norway"
-                    },
-                    {
-                        "date": "2025-11-13",
-                        "home_team": "Norway",
-                        "away_team": "Estonia",
-                        "home_score": 4,
-                        "away_score": 1,
-                        "tournament": "World Cup qualifier",
-                        "host": "Norway"
-                    },
-                    {
-                        "date": "2025-11-16",
-                        "home_team": "Italy",
-                        "away_team": "Norway",
-                        "home_score": 1,
-                        "away_score": 4,
-                        "tournament": "World Cup qualifier",
-                        "host": "Italy"
+                        "host": "Spain"
                     }
                 ],
                 "details_end": {}
@@ -27012,8 +26919,8 @@
             {
                 "country": "Netherlands",
                 "current": true,
-                "total": 12,
-                "wins": 7,
+                "total": 13,
+                "wins": 8,
                 "draws": 5,
                 "losses": 0,
                 "date_started": "2024-11-16",
@@ -27125,117 +27032,396 @@
                         "away_score": 0,
                         "tournament": "World Cup qualifier",
                         "host": "Netherlands"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Netherlands",
+                        "away_team": "Norway",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "Netherlands"
                     }
                 ],
                 "details_end": {}
             },
             {
-                "country": "Cape Verde",
+                "country": "Belgium",
                 "current": true,
-                "total": 11,
-                "wins": 6,
-                "draws": 5,
+                "total": 10,
+                "wins": 7,
+                "draws": 3,
                 "losses": 0,
-                "date_started": "2025-03-20",
+                "date_started": "2025-03-23",
                 "details_streak": [
                     {
-                        "date": "2025-03-20",
-                        "home_team": "Cape Verde",
-                        "away_team": "Mauritius",
-                        "home_score": 1,
+                        "date": "2025-03-23",
+                        "home_team": "Belgium",
+                        "away_team": "Ukraine",
+                        "home_score": 3,
                         "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Cape Verde"
+                        "tournament": "European Nations League A/B",
+                        "host": "Belgium"
                     },
                     {
-                        "date": "2025-03-25",
-                        "home_team": "Angola",
-                        "away_team": "Cape Verde",
-                        "home_score": 1,
-                        "away_score": 2,
-                        "tournament": "World Cup qualifier",
-                        "host": "Angola"
-                    },
-                    {
-                        "date": "2025-05-29",
-                        "home_team": "Malaysia",
-                        "away_team": "Cape Verde",
+                        "date": "2025-06-06",
+                        "home_team": "North Macedonia",
+                        "away_team": "Belgium",
                         "home_score": 1,
                         "away_score": 1,
-                        "tournament": "Friendly",
-                        "host": "Malaysia"
+                        "tournament": "World Cup qualifier",
+                        "host": "North Macedonia"
                     },
                     {
-                        "date": "2025-06-03",
-                        "home_team": "Malaysia",
-                        "away_team": "Cape Verde",
-                        "home_score": 0,
+                        "date": "2025-06-09",
+                        "home_team": "Belgium",
+                        "away_team": "Wales",
+                        "home_score": 4,
                         "away_score": 3,
-                        "tournament": "Friendly",
-                        "host": "Malaysia"
-                    },
-                    {
-                        "date": "2025-06-08",
-                        "home_team": "Georgia",
-                        "away_team": "Cape Verde",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "Friendly",
-                        "host": "Georgia"
+                        "tournament": "World Cup qualifier",
+                        "host": "Belgium"
                     },
                     {
                         "date": "2025-09-04",
-                        "home_team": "Mauritius",
-                        "away_team": "Cape Verde",
+                        "home_team": "Liechtenstein",
+                        "away_team": "Belgium",
                         "home_score": 0,
-                        "away_score": 2,
+                        "away_score": 6,
                         "tournament": "World Cup qualifier",
-                        "host": "Mauritius"
+                        "host": "Liechtenstein"
                     },
                     {
-                        "date": "2025-09-09",
-                        "home_team": "Cape Verde",
-                        "away_team": "Cameroon",
-                        "home_score": 1,
+                        "date": "2025-09-07",
+                        "home_team": "Belgium",
+                        "away_team": "Kazakhstan",
+                        "home_score": 6,
                         "away_score": 0,
                         "tournament": "World Cup qualifier",
-                        "host": "Cape Verde"
+                        "host": "Belgium"
                     },
                     {
-                        "date": "2025-10-08",
-                        "home_team": "Libya",
-                        "away_team": "Cape Verde",
-                        "home_score": 3,
-                        "away_score": 3,
+                        "date": "2025-10-10",
+                        "home_team": "Belgium",
+                        "away_team": "North Macedonia",
+                        "home_score": 0,
+                        "away_score": 0,
                         "tournament": "World Cup qualifier",
-                        "host": "Libya"
+                        "host": "Belgium"
                     },
                     {
                         "date": "2025-10-13",
-                        "home_team": "Cape Verde",
-                        "away_team": "Eswatini",
+                        "home_team": "Wales",
+                        "away_team": "Belgium",
+                        "home_score": 2,
+                        "away_score": 4,
+                        "tournament": "World Cup qualifier",
+                        "host": "Wales"
+                    },
+                    {
+                        "date": "2025-11-15",
+                        "home_team": "Kazakhstan",
+                        "away_team": "Belgium",
+                        "home_score": 1,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Kazakhstan"
+                    },
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Belgium",
+                        "away_team": "Liechtenstein",
+                        "home_score": 7,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Belgium"
+                    },
+                    {
+                        "date": "2026-03-28",
+                        "home_team": "United States",
+                        "away_team": "Belgium",
+                        "home_score": 2,
+                        "away_score": 5,
+                        "tournament": "Friendly",
+                        "host": "United States"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "France",
+                "current": true,
+                "total": 9,
+                "wins": 8,
+                "draws": 1,
+                "losses": 0,
+                "date_started": "2025-06-08",
+                "details_streak": [
+                    {
+                        "date": "2025-06-08",
+                        "home_team": "Germany",
+                        "away_team": "France",
+                        "home_score": 0,
+                        "away_score": 2,
+                        "tournament": "European Nations League",
+                        "host": "Germany"
+                    },
+                    {
+                        "date": "2025-09-05",
+                        "home_team": "France",
+                        "away_team": "Ukraine",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Poland"
+                    },
+                    {
+                        "date": "2025-09-09",
+                        "home_team": "France",
+                        "away_team": "Iceland",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "France"
+                    },
+                    {
+                        "date": "2025-10-10",
+                        "home_team": "France",
+                        "away_team": "Azerbaijan",
                         "home_score": 3,
                         "away_score": 0,
                         "tournament": "World Cup qualifier",
-                        "host": "Cape Verde"
+                        "host": "France"
+                    },
+                    {
+                        "date": "2025-10-13",
+                        "home_team": "Iceland",
+                        "away_team": "France",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "World Cup qualifier",
+                        "host": "Iceland"
                     },
                     {
                         "date": "2025-11-13",
-                        "home_team": "Cape Verde",
-                        "away_team": "Iran",
+                        "home_team": "France",
+                        "away_team": "Ukraine",
+                        "home_score": 4,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "France"
+                    },
+                    {
+                        "date": "2025-11-16",
+                        "home_team": "Azerbaijan",
+                        "away_team": "France",
+                        "home_score": 1,
+                        "away_score": 3,
+                        "tournament": "World Cup qualifier",
+                        "host": "Azerbaijan"
+                    },
+                    {
+                        "date": "2026-03-26",
+                        "home_team": "France",
+                        "away_team": "Brazil",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "United States"
+                    },
+                    {
+                        "date": "2026-03-29",
+                        "home_team": "France",
+                        "away_team": "Colombia",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "United States"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Croatia",
+                "current": true,
+                "total": 9,
+                "wins": 8,
+                "draws": 1,
+                "losses": 0,
+                "date_started": "2025-06-06",
+                "details_streak": [
+                    {
+                        "date": "2025-06-06",
+                        "home_team": "Croatia",
+                        "away_team": "Gibraltar",
+                        "home_score": 7,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Portugal"
+                    },
+                    {
+                        "date": "2025-06-09",
+                        "home_team": "Croatia",
+                        "away_team": "Czechia",
+                        "home_score": 5,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Croatia"
+                    },
+                    {
+                        "date": "2025-09-05",
+                        "home_team": "Faroe Islands",
+                        "away_team": "Croatia",
+                        "home_score": 0,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Faroe Islands"
+                    },
+                    {
+                        "date": "2025-09-08",
+                        "home_team": "Croatia",
+                        "away_team": "Montenegro",
+                        "home_score": 4,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Croatia"
+                    },
+                    {
+                        "date": "2025-10-09",
+                        "home_team": "Czechia",
+                        "away_team": "Croatia",
                         "home_score": 0,
                         "away_score": 0,
-                        "tournament": "Friendly tournament",
-                        "host": "United Arab Emirates"
+                        "tournament": "World Cup qualifier",
+                        "host": "Czechia"
+                    },
+                    {
+                        "date": "2025-10-12",
+                        "home_team": "Croatia",
+                        "away_team": "Gibraltar",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Croatia"
+                    },
+                    {
+                        "date": "2025-11-14",
+                        "home_team": "Croatia",
+                        "away_team": "Faroe Islands",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Croatia"
                     },
                     {
                         "date": "2025-11-17",
-                        "home_team": "Cape Verde",
-                        "away_team": "Egypt",
+                        "home_team": "Montenegro",
+                        "away_team": "Croatia",
+                        "home_score": 2,
+                        "away_score": 3,
+                        "tournament": "World Cup qualifier",
+                        "host": "Montenegro"
+                    },
+                    {
+                        "date": "2026-03-26",
+                        "home_team": "Croatia",
+                        "away_team": "Colombia",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "United States"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Senegal",
+                "current": true,
+                "total": 9,
+                "wins": 8,
+                "draws": 1,
+                "losses": 0,
+                "date_started": "2025-11-18",
+                "details_streak": [
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Senegal",
+                        "away_team": "Kenya",
+                        "home_score": 8,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Turkey"
+                    },
+                    {
+                        "date": "2025-12-23",
+                        "home_team": "Senegal",
+                        "away_team": "Botswana",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2025-12-27",
+                        "home_team": "DR Congo",
+                        "away_team": "Senegal",
                         "home_score": 1,
                         "away_score": 1,
-                        "tournament": "Friendly tournament",
-                        "host": "United Arab Emirates"
+                        "tournament": "African Nations Cup",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2025-12-30",
+                        "home_team": "Senegal",
+                        "away_team": "Benin",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-01-03",
+                        "home_team": "Senegal",
+                        "away_team": "Sudan",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "African Nations Cup",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-01-09",
+                        "home_team": "Senegal",
+                        "away_team": "Mali",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-01-14",
+                        "home_team": "Senegal",
+                        "away_team": "Egypt",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-01-18",
+                        "home_team": "Morocco",
+                        "away_team": "Senegal",
+                        "home_score": 0,
+                        "away_score": 1,
+                        "tournament": "African Nations Cup",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-03-28",
+                        "home_team": "Senegal",
+                        "away_team": "Peru",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "France"
                     }
                 ],
                 "details_end": {}
@@ -27243,67 +27429,133 @@
         ],
         "Winning": [
             {
-                "country": "England",
+                "country": "Germany",
                 "current": true,
                 "total": 6,
                 "wins": 6,
                 "draws": 0,
                 "losses": 0,
-                "date_started": "2025-09-06",
+                "date_started": "2025-09-07",
                 "details_streak": [
                     {
-                        "date": "2025-09-06",
-                        "home_team": "England",
-                        "away_team": "Andorra",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "England"
-                    },
-                    {
-                        "date": "2025-09-09",
-                        "home_team": "Serbia",
-                        "away_team": "England",
-                        "home_score": 0,
-                        "away_score": 5,
-                        "tournament": "World Cup qualifier",
-                        "host": "Serbia"
-                    },
-                    {
-                        "date": "2025-10-09",
-                        "home_team": "England",
-                        "away_team": "Wales",
+                        "date": "2025-09-07",
+                        "home_team": "Germany",
+                        "away_team": "Northern Ireland",
                         "home_score": 3,
-                        "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "England"
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Germany"
                     },
                     {
-                        "date": "2025-10-14",
-                        "home_team": "Latvia",
-                        "away_team": "England",
+                        "date": "2025-10-10",
+                        "home_team": "Germany",
+                        "away_team": "Luxembourg",
+                        "home_score": 4,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Germany"
+                    },
+                    {
+                        "date": "2025-10-13",
+                        "home_team": "Northern Ireland",
+                        "away_team": "Germany",
                         "home_score": 0,
-                        "away_score": 5,
+                        "away_score": 1,
                         "tournament": "World Cup qualifier",
-                        "host": "Latvia"
+                        "host": "Northern Ireland"
                     },
                     {
-                        "date": "2025-11-13",
-                        "home_team": "England",
-                        "away_team": "Serbia",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "England"
-                    },
-                    {
-                        "date": "2025-11-16",
-                        "home_team": "Albania",
-                        "away_team": "England",
+                        "date": "2025-11-14",
+                        "home_team": "Luxembourg",
+                        "away_team": "Germany",
                         "home_score": 0,
                         "away_score": 2,
                         "tournament": "World Cup qualifier",
-                        "host": "Albania"
+                        "host": "Luxembourg"
+                    },
+                    {
+                        "date": "2025-11-17",
+                        "home_team": "Germany",
+                        "away_team": "Slovakia",
+                        "home_score": 6,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Germany"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Switzerland",
+                        "away_team": "Germany",
+                        "home_score": 3,
+                        "away_score": 4,
+                        "tournament": "Friendly",
+                        "host": "Switzerland"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Senegal",
+                "current": true,
+                "total": 6,
+                "wins": 6,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2025-12-30",
+                "details_streak": [
+                    {
+                        "date": "2025-12-30",
+                        "home_team": "Senegal",
+                        "away_team": "Benin",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-01-03",
+                        "home_team": "Senegal",
+                        "away_team": "Sudan",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "African Nations Cup",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-01-09",
+                        "home_team": "Senegal",
+                        "away_team": "Mali",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-01-14",
+                        "home_team": "Senegal",
+                        "away_team": "Egypt",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-01-18",
+                        "home_team": "Morocco",
+                        "away_team": "Senegal",
+                        "home_score": 0,
+                        "away_score": 1,
+                        "tournament": "African Nations Cup",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-03-28",
+                        "home_team": "Senegal",
+                        "away_team": "Peru",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "France"
                     }
                 ],
                 "details_end": {}
@@ -27375,124 +27627,10 @@
                 "details_end": {}
             },
             {
-                "country": "Germany",
-                "current": true,
-                "total": 5,
-                "wins": 5,
-                "draws": 0,
-                "losses": 0,
-                "date_started": "2025-09-07",
-                "details_streak": [
-                    {
-                        "date": "2025-09-07",
-                        "home_team": "Germany",
-                        "away_team": "Northern Ireland",
-                        "home_score": 3,
-                        "away_score": 1,
-                        "tournament": "World Cup qualifier",
-                        "host": "Germany"
-                    },
-                    {
-                        "date": "2025-10-10",
-                        "home_team": "Germany",
-                        "away_team": "Luxembourg",
-                        "home_score": 4,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Germany"
-                    },
-                    {
-                        "date": "2025-10-13",
-                        "home_team": "Northern Ireland",
-                        "away_team": "Germany",
-                        "home_score": 0,
-                        "away_score": 1,
-                        "tournament": "World Cup qualifier",
-                        "host": "Northern Ireland"
-                    },
-                    {
-                        "date": "2025-11-14",
-                        "home_team": "Luxembourg",
-                        "away_team": "Germany",
-                        "home_score": 0,
-                        "away_score": 2,
-                        "tournament": "World Cup qualifier",
-                        "host": "Luxembourg"
-                    },
-                    {
-                        "date": "2025-11-17",
-                        "home_team": "Germany",
-                        "away_team": "Slovakia",
-                        "home_score": 6,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Germany"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Senegal",
-                "current": true,
-                "total": 5,
-                "wins": 5,
-                "draws": 0,
-                "losses": 0,
-                "date_started": "2025-12-30",
-                "details_streak": [
-                    {
-                        "date": "2025-12-30",
-                        "home_team": "Senegal",
-                        "away_team": "Benin",
-                        "home_score": 3,
-                        "away_score": 0,
-                        "tournament": "African Nations Cup",
-                        "host": "Morocco"
-                    },
-                    {
-                        "date": "2026-01-03",
-                        "home_team": "Senegal",
-                        "away_team": "Sudan",
-                        "home_score": 3,
-                        "away_score": 1,
-                        "tournament": "African Nations Cup",
-                        "host": "Morocco"
-                    },
-                    {
-                        "date": "2026-01-09",
-                        "home_team": "Senegal",
-                        "away_team": "Mali",
-                        "home_score": 1,
-                        "away_score": 0,
-                        "tournament": "African Nations Cup",
-                        "host": "Morocco"
-                    },
-                    {
-                        "date": "2026-01-14",
-                        "home_team": "Senegal",
-                        "away_team": "Egypt",
-                        "home_score": 1,
-                        "away_score": 0,
-                        "tournament": "African Nations Cup",
-                        "host": "Morocco"
-                    },
-                    {
-                        "date": "2026-01-18",
-                        "home_team": "Morocco",
-                        "away_team": "Senegal",
-                        "home_score": 0,
-                        "away_score": 1,
-                        "tournament": "African Nations Cup",
-                        "host": "Morocco"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
                 "country": "Guyana",
                 "current": true,
-                "total": 5,
-                "wins": 5,
+                "total": 6,
+                "wins": 6,
                 "draws": 0,
                 "losses": 0,
                 "date_started": "2025-06-10",
@@ -27541,6 +27679,351 @@
                         "away_score": 4,
                         "tournament": "CONCACAF Series",
                         "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Guyana",
+                        "away_team": "Dominica",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Series",
+                        "host": "Dominican Republic"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Argentina",
+                "current": true,
+                "total": 4,
+                "wins": 4,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2025-10-10",
+                "details_streak": [
+                    {
+                        "date": "2025-10-10",
+                        "home_team": "Argentina",
+                        "away_team": "Venezuela",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "United States"
+                    },
+                    {
+                        "date": "2025-10-14",
+                        "home_team": "Argentina",
+                        "away_team": "Puerto Rico",
+                        "home_score": 6,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "United States"
+                    },
+                    {
+                        "date": "2025-11-14",
+                        "home_team": "Angola",
+                        "away_team": "Argentina",
+                        "home_score": 0,
+                        "away_score": 2,
+                        "tournament": "Friendly",
+                        "host": "Angola"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Argentina",
+                        "away_team": "Mauritania",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "Argentina"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "France",
+                "current": true,
+                "total": 4,
+                "wins": 4,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2025-11-13",
+                "details_streak": [
+                    {
+                        "date": "2025-11-13",
+                        "home_team": "France",
+                        "away_team": "Ukraine",
+                        "home_score": 4,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "France"
+                    },
+                    {
+                        "date": "2025-11-16",
+                        "home_team": "Azerbaijan",
+                        "away_team": "France",
+                        "home_score": 1,
+                        "away_score": 3,
+                        "tournament": "World Cup qualifier",
+                        "host": "Azerbaijan"
+                    },
+                    {
+                        "date": "2026-03-26",
+                        "home_team": "France",
+                        "away_team": "Brazil",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "United States"
+                    },
+                    {
+                        "date": "2026-03-29",
+                        "home_team": "France",
+                        "away_team": "Colombia",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "United States"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Chile",
+                "current": true,
+                "total": 4,
+                "wins": 4,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2025-10-10",
+                "details_streak": [
+                    {
+                        "date": "2025-10-10",
+                        "home_team": "Chile",
+                        "away_team": "Peru",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "Chile"
+                    },
+                    {
+                        "date": "2025-11-15",
+                        "home_team": "Russia",
+                        "away_team": "Chile",
+                        "home_score": 0,
+                        "away_score": 2,
+                        "tournament": "Friendly",
+                        "host": "Russia"
+                    },
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Chile",
+                        "away_team": "Peru",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "Russia"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Chile",
+                        "away_team": "Cape Verde",
+                        "home_score": 4,
+                        "away_score": 2,
+                        "tournament": "FIFA Series",
+                        "host": "New Zealand"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Japan",
+                "current": true,
+                "total": 4,
+                "wins": 4,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2025-10-14",
+                "details_streak": [
+                    {
+                        "date": "2025-10-14",
+                        "home_team": "Japan",
+                        "away_team": "Brazil",
+                        "home_score": 3,
+                        "away_score": 2,
+                        "tournament": "Friendly",
+                        "host": "Japan"
+                    },
+                    {
+                        "date": "2025-11-14",
+                        "home_team": "Japan",
+                        "away_team": "Ghana",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Japan"
+                    },
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Japan",
+                        "away_team": "Bolivia",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Japan"
+                    },
+                    {
+                        "date": "2026-03-28",
+                        "home_team": "Scotland",
+                        "away_team": "Japan",
+                        "home_score": 0,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "Scotland"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Croatia",
+                "current": true,
+                "total": 4,
+                "wins": 4,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2025-10-12",
+                "details_streak": [
+                    {
+                        "date": "2025-10-12",
+                        "home_team": "Croatia",
+                        "away_team": "Gibraltar",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Croatia"
+                    },
+                    {
+                        "date": "2025-11-14",
+                        "home_team": "Croatia",
+                        "away_team": "Faroe Islands",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Croatia"
+                    },
+                    {
+                        "date": "2025-11-17",
+                        "home_team": "Montenegro",
+                        "away_team": "Croatia",
+                        "home_score": 2,
+                        "away_score": 3,
+                        "tournament": "World Cup qualifier",
+                        "host": "Montenegro"
+                    },
+                    {
+                        "date": "2026-03-26",
+                        "home_team": "Croatia",
+                        "away_team": "Colombia",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "United States"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Thailand",
+                "current": true,
+                "total": 4,
+                "wins": 4,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2025-10-09",
+                "details_streak": [
+                    {
+                        "date": "2025-10-09",
+                        "home_team": "Thailand",
+                        "away_team": "Taiwan",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Thailand"
+                    },
+                    {
+                        "date": "2025-10-14",
+                        "home_team": "Taiwan",
+                        "away_team": "Thailand",
+                        "home_score": 1,
+                        "away_score": 6,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Taiwan"
+                    },
+                    {
+                        "date": "2025-11-13",
+                        "home_team": "Thailand",
+                        "away_team": "Singapore",
+                        "home_score": 3,
+                        "away_score": 2,
+                        "tournament": "Friendly",
+                        "host": "Thailand"
+                    },
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Sri Lanka",
+                        "away_team": "Thailand",
+                        "home_score": 0,
+                        "away_score": 4,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Sri Lanka"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Vietnam",
+                "current": true,
+                "total": 4,
+                "wins": 4,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2025-10-09",
+                "details_streak": [
+                    {
+                        "date": "2025-10-09",
+                        "home_team": "Vietnam",
+                        "away_team": "Nepal",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Vietnam"
+                    },
+                    {
+                        "date": "2025-10-14",
+                        "home_team": "Vietnam",
+                        "away_team": "Nepal",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Vietnam"
+                    },
+                    {
+                        "date": "2025-11-19",
+                        "home_team": "Laos",
+                        "away_team": "Vietnam",
+                        "home_score": 0,
+                        "away_score": 2,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Laos"
+                    },
+                    {
+                        "date": "2026-03-26",
+                        "home_team": "Vietnam",
+                        "away_team": "Bangladesh",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Vietnam"
                     }
                 ],
                 "details_end": {}
@@ -27548,132 +28031,12 @@
         ],
         "Losing": [
             {
-                "country": "Liechtenstein",
-                "current": true,
-                "total": 12,
-                "wins": 0,
-                "draws": 0,
-                "losses": 12,
-                "date_started": "2024-11-14",
-                "details_streak": [
-                    {
-                        "date": "2024-11-14",
-                        "home_team": "Malta",
-                        "away_team": "Liechtenstein",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "Malta"
-                    },
-                    {
-                        "date": "2024-11-18",
-                        "home_team": "Liechtenstein",
-                        "away_team": "San Marino",
-                        "home_score": 1,
-                        "away_score": 3,
-                        "tournament": "European Nations League D",
-                        "host": "Liechtenstein"
-                    },
-                    {
-                        "date": "2025-03-22",
-                        "home_team": "Liechtenstein",
-                        "away_team": "North Macedonia",
-                        "home_score": 0,
-                        "away_score": 3,
-                        "tournament": "World Cup qualifier",
-                        "host": "Liechtenstein"
-                    },
-                    {
-                        "date": "2025-03-25",
-                        "home_team": "Liechtenstein",
-                        "away_team": "Kazakhstan",
-                        "home_score": 0,
-                        "away_score": 2,
-                        "tournament": "World Cup qualifier",
-                        "host": "Liechtenstein"
-                    },
-                    {
-                        "date": "2025-06-06",
-                        "home_team": "Wales",
-                        "away_team": "Liechtenstein",
-                        "home_score": 3,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Wales"
-                    },
-                    {
-                        "date": "2025-06-09",
-                        "home_team": "Liechtenstein",
-                        "away_team": "Scotland",
-                        "home_score": 0,
-                        "away_score": 4,
-                        "tournament": "Friendly",
-                        "host": "Liechtenstein"
-                    },
-                    {
-                        "date": "2025-09-04",
-                        "home_team": "Liechtenstein",
-                        "away_team": "Belgium",
-                        "home_score": 0,
-                        "away_score": 6,
-                        "tournament": "World Cup qualifier",
-                        "host": "Liechtenstein"
-                    },
-                    {
-                        "date": "2025-09-07",
-                        "home_team": "North Macedonia",
-                        "away_team": "Liechtenstein",
-                        "home_score": 5,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "North Macedonia"
-                    },
-                    {
-                        "date": "2025-10-10",
-                        "home_team": "Kazakhstan",
-                        "away_team": "Liechtenstein",
-                        "home_score": 4,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Kazakhstan"
-                    },
-                    {
-                        "date": "2025-10-13",
-                        "home_team": "Montenegro",
-                        "away_team": "Liechtenstein",
-                        "home_score": 2,
-                        "away_score": 1,
-                        "tournament": "Friendly",
-                        "host": "Montenegro"
-                    },
-                    {
-                        "date": "2025-11-15",
-                        "home_team": "Liechtenstein",
-                        "away_team": "Wales",
-                        "home_score": 0,
-                        "away_score": 1,
-                        "tournament": "World Cup qualifier",
-                        "host": "Liechtenstein"
-                    },
-                    {
-                        "date": "2025-11-18",
-                        "home_team": "Belgium",
-                        "away_team": "Liechtenstein",
-                        "home_score": 7,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Belgium"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
                 "country": "San Marino",
                 "current": true,
-                "total": 10,
+                "total": 11,
                 "wins": 0,
                 "draws": 0,
-                "losses": 10,
+                "losses": 11,
                 "date_started": "2025-03-21",
                 "details_streak": [
                     {
@@ -27765,6 +28128,15 @@
                         "away_score": 1,
                         "tournament": "World Cup qualifier",
                         "host": "Romania"
+                    },
+                    {
+                        "date": "2026-03-28",
+                        "home_team": "San Marino",
+                        "away_team": "Faroe Islands",
+                        "home_score": 1,
+                        "away_score": 2,
+                        "tournament": "Friendly",
+                        "host": "San Marino"
                     }
                 ],
                 "details_end": {}
@@ -27772,10 +28144,10 @@
             {
                 "country": "Gibraltar",
                 "current": true,
-                "total": 10,
+                "total": 11,
                 "wins": 0,
                 "draws": 0,
-                "losses": 10,
+                "losses": 11,
                 "date_started": "2025-03-22",
                 "details_streak": [
                     {
@@ -27867,90 +28239,99 @@
                         "away_score": 0,
                         "tournament": "World Cup qualifier",
                         "host": "Czechia"
+                    },
+                    {
+                        "date": "2026-03-26",
+                        "home_team": "Gibraltar",
+                        "away_team": "Latvia",
+                        "home_score": 0,
+                        "away_score": 1,
+                        "tournament": "European Nations League C/D",
+                        "host": "Gibraltar"
                     }
                 ],
                 "details_end": {}
             },
             {
-                "country": "Seychelles",
+                "country": "Bahamas",
                 "current": true,
                 "total": 8,
                 "wins": 0,
                 "draws": 0,
                 "losses": 8,
-                "date_started": "2024-07-01",
+                "date_started": "2024-10-15",
                 "details_streak": [
                     {
-                        "date": "2024-07-01",
-                        "home_team": "Angola",
-                        "away_team": "Seychelles",
-                        "home_score": 3,
+                        "date": "2024-10-15",
+                        "home_team": "Barbados",
+                        "away_team": "Bahamas",
+                        "home_score": 6,
                         "away_score": 2,
-                        "tournament": "COSAFA Cup",
-                        "host": "South Africa"
+                        "tournament": "CONCACAF Nations League C",
+                        "host": "Barbados"
                     },
                     {
-                        "date": "2024-07-03",
-                        "home_team": "Namibia",
-                        "away_team": "Seychelles",
+                        "date": "2025-06-04",
+                        "home_team": "Grenada",
+                        "away_team": "Bahamas",
+                        "home_score": 6,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Grenada"
+                    },
+                    {
+                        "date": "2025-06-07",
+                        "home_team": "Costa Rica",
+                        "away_team": "Bahamas",
+                        "home_score": 8,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Barbados"
+                    },
+                    {
+                        "date": "2025-11-12",
+                        "home_team": "Anguilla",
+                        "away_team": "Bahamas",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Friendly tournament",
+                        "host": "Cayman Islands"
+                    },
+                    {
+                        "date": "2025-11-15",
+                        "home_team": "British Virgin Islands",
+                        "away_team": "Bahamas",
+                        "home_score": 6,
+                        "away_score": 0,
+                        "tournament": "Friendly tournament",
+                        "host": "Cayman Islands"
+                    },
+                    {
+                        "date": "2025-11-12",
+                        "home_team": "Anguilla",
+                        "away_team": "Bahamas",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "CONCACAF Series",
+                        "host": "Cayman Islands"
+                    },
+                    {
+                        "date": "2025-11-15",
+                        "home_team": "British Virgin Islands",
+                        "away_team": "Bahamas",
+                        "home_score": 6,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Series",
+                        "host": "Cayman Islands"
+                    },
+                    {
+                        "date": "2026-03-26",
+                        "home_team": "Anguilla",
+                        "away_team": "Bahamas",
                         "home_score": 3,
                         "away_score": 1,
-                        "tournament": "COSAFA Cup",
-                        "host": "South Africa"
-                    },
-                    {
-                        "date": "2025-03-20",
-                        "home_team": "Gabon",
-                        "away_team": "Seychelles",
-                        "home_score": 3,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Gabon"
-                    },
-                    {
-                        "date": "2025-03-25",
-                        "home_team": "Burundi",
-                        "away_team": "Seychelles",
-                        "home_score": 5,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Morocco"
-                    },
-                    {
-                        "date": "2025-09-03",
-                        "home_team": "Gabon",
-                        "away_team": "Seychelles",
-                        "home_score": 4,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Mauritius"
-                    },
-                    {
-                        "date": "2025-09-09",
-                        "home_team": "Kenya",
-                        "away_team": "Seychelles",
-                        "home_score": 5,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Kenya"
-                    },
-                    {
-                        "date": "2025-10-10",
-                        "home_team": "Ivory Coast",
-                        "away_team": "Seychelles",
-                        "home_score": 7,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Mauritius"
-                    },
-                    {
-                        "date": "2025-10-14",
-                        "home_team": "Gambia",
-                        "away_team": "Seychelles",
-                        "home_score": 7,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Mauritius"
+                        "tournament": "CONCACAF Series",
+                        "host": "Cayman Islands"
                     }
                 ],
                 "details_end": {}
@@ -28038,16 +28419,166 @@
                     }
                 ],
                 "details_end": {}
+            },
+            {
+                "country": "Macao",
+                "current": true,
+                "total": 7,
+                "wins": 0,
+                "draws": 0,
+                "losses": 7,
+                "date_started": "2024-09-06",
+                "details_streak": [
+                    {
+                        "date": "2024-09-06",
+                        "home_team": "Brunei",
+                        "away_team": "Macao",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Brunei"
+                    },
+                    {
+                        "date": "2024-09-10",
+                        "home_team": "Macao",
+                        "away_team": "Brunei",
+                        "home_score": 0,
+                        "away_score": 1,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Macao"
+                    },
+                    {
+                        "date": "2024-12-14",
+                        "home_team": "Guam",
+                        "away_team": "Macao",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "East Asian Championship qual",
+                        "host": "Hong Kong"
+                    },
+                    {
+                        "date": "2025-03-19",
+                        "home_team": "Hong Kong",
+                        "away_team": "Macao",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Hong Kong"
+                    },
+                    {
+                        "date": "2025-06-05",
+                        "home_team": "Taiwan",
+                        "away_team": "Macao",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Taiwan"
+                    },
+                    {
+                        "date": "2026-03-26",
+                        "home_team": "Aruba",
+                        "away_team": "Macao",
+                        "home_score": 4,
+                        "away_score": 1,
+                        "tournament": "FIFA Series",
+                        "host": "Rwanda"
+                    },
+                    {
+                        "date": "2026-03-29",
+                        "home_team": "Tanzania",
+                        "away_team": "Macao",
+                        "home_score": 6,
+                        "away_score": 0,
+                        "tournament": "FIFA Series",
+                        "host": "Rwanda"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Greenland",
+                "current": true,
+                "total": 7,
+                "wins": 0,
+                "draws": 0,
+                "losses": 7,
+                "date_started": "1997-07-02",
+                "details_streak": [
+                    {
+                        "date": "1997-07-02",
+                        "home_team": "Gibraltar",
+                        "away_team": "Greenland",
+                        "home_score": 5,
+                        "away_score": 1,
+                        "tournament": "Island Games",
+                        "host": "United Kingdom"
+                    },
+                    {
+                        "date": "2003-06-30",
+                        "home_team": "Gibraltar",
+                        "away_team": "Greenland",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "Island Games",
+                        "host": "United Kingdom"
+                    },
+                    {
+                        "date": "2006-05-31",
+                        "home_team": "Zanzibar",
+                        "away_team": "Greenland",
+                        "home_score": 4,
+                        "away_score": 2,
+                        "tournament": "Mini World Cup",
+                        "host": "Germany"
+                    },
+                    {
+                        "date": "2013-07-14",
+                        "home_team": "Bermuda",
+                        "away_team": "Greenland",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "Island Games",
+                        "host": "Bermuda"
+                    },
+                    {
+                        "date": "2013-07-18",
+                        "home_team": "Bermuda",
+                        "away_team": "Greenland",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "Island Games",
+                        "host": "Bermuda"
+                    },
+                    {
+                        "date": "2023-07-11",
+                        "home_team": "Bermuda",
+                        "away_team": "Greenland",
+                        "home_score": 3,
+                        "away_score": 2,
+                        "tournament": "Island Games",
+                        "host": "United Kingdom"
+                    },
+                    {
+                        "date": "2024-06-01",
+                        "home_team": "Turkmenistan",
+                        "away_team": "Greenland",
+                        "home_score": 5,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Turkey"
+                    }
+                ],
+                "details_end": {}
             }
         ],
         "Winless": [
             {
                 "country": "Eswatini",
                 "current": true,
-                "total": 20,
+                "total": 21,
                 "wins": 0,
                 "draws": 9,
-                "losses": 11,
+                "losses": 12,
                 "date_started": "2024-03-26",
                 "details_streak": [
                     {
@@ -28229,6 +28760,15 @@
                         "away_score": 0,
                         "tournament": "World Cup qualifier",
                         "host": "Cape Verde"
+                    },
+                    {
+                        "date": "2026-03-25",
+                        "home_team": "Eritrea",
+                        "away_team": "Eswatini",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "Morocco"
                     }
                 ],
                 "details_end": {}
@@ -28236,10 +28776,10 @@
             {
                 "country": "Seychelles",
                 "current": true,
-                "total": 18,
+                "total": 20,
                 "wins": 0,
-                "draws": 1,
-                "losses": 17,
+                "draws": 2,
+                "losses": 18,
                 "date_started": "2023-07-06",
                 "details_streak": [
                     {
@@ -28403,6 +28943,24 @@
                         "away_score": 0,
                         "tournament": "World Cup qualifier",
                         "host": "Mauritius"
+                    },
+                    {
+                        "date": "2026-03-26",
+                        "home_team": "Lesotho",
+                        "away_team": "Seychelles",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "South Africa"
+                    },
+                    {
+                        "date": "2026-03-29",
+                        "home_team": "Lesotho",
+                        "away_team": "Seychelles",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "South Africa"
                     }
                 ],
                 "details_end": {}
@@ -28410,10 +28968,10 @@
             {
                 "country": "Chad",
                 "current": true,
-                "total": 18,
+                "total": 19,
                 "wins": 0,
                 "draws": 6,
-                "losses": 12,
+                "losses": 13,
                 "date_started": "2024-06-05",
                 "details_streak": [
                     {
@@ -28577,171 +29135,15 @@
                         "away_score": 2,
                         "tournament": "Friendly",
                         "host": "Morocco"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Lithuania",
-                "current": true,
-                "total": 17,
-                "wins": 0,
-                "draws": 5,
-                "losses": 12,
-                "date_started": "2024-06-11",
-                "details_streak": [
-                    {
-                        "date": "2024-06-11",
-                        "home_team": "Lithuania",
-                        "away_team": "Estonia",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "Baltic Cup",
-                        "host": "Lithuania"
                     },
                     {
-                        "date": "2024-09-06",
-                        "home_team": "Lithuania",
-                        "away_team": "Cyprus",
+                        "date": "2026-03-27",
+                        "home_team": "Chad",
+                        "away_team": "Burundi",
                         "home_score": 0,
-                        "away_score": 1,
-                        "tournament": "European Nations League C",
-                        "host": "Lithuania"
-                    },
-                    {
-                        "date": "2024-09-09",
-                        "home_team": "Romania",
-                        "away_team": "Lithuania",
-                        "home_score": 3,
-                        "away_score": 1,
-                        "tournament": "European Nations League C",
-                        "host": "Romania"
-                    },
-                    {
-                        "date": "2024-10-12",
-                        "home_team": "Lithuania",
-                        "away_team": "Kosovo",
-                        "home_score": 1,
-                        "away_score": 2,
-                        "tournament": "European Nations League C",
-                        "host": "Lithuania"
-                    },
-                    {
-                        "date": "2024-10-15",
-                        "home_team": "Lithuania",
-                        "away_team": "Romania",
-                        "home_score": 1,
-                        "away_score": 2,
-                        "tournament": "European Nations League C",
-                        "host": "Lithuania"
-                    },
-                    {
-                        "date": "2024-11-15",
-                        "home_team": "Cyprus",
-                        "away_team": "Lithuania",
-                        "home_score": 2,
-                        "away_score": 1,
-                        "tournament": "European Nations League C",
-                        "host": "Cyprus"
-                    },
-                    {
-                        "date": "2024-11-18",
-                        "home_team": "Kosovo",
-                        "away_team": "Lithuania",
-                        "home_score": 1,
-                        "away_score": 0,
-                        "tournament": "European Nations League C",
-                        "host": "Kosovo"
-                    },
-                    {
-                        "date": "2025-03-21",
-                        "home_team": "Poland",
-                        "away_team": "Lithuania",
-                        "home_score": 1,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Poland"
-                    },
-                    {
-                        "date": "2025-03-24",
-                        "home_team": "Lithuania",
-                        "away_team": "Finland",
-                        "home_score": 2,
-                        "away_score": 2,
-                        "tournament": "World Cup qualifier",
-                        "host": "Lithuania"
-                    },
-                    {
-                        "date": "2025-06-07",
-                        "home_team": "Malta",
-                        "away_team": "Lithuania",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Malta"
-                    },
-                    {
-                        "date": "2025-06-10",
-                        "home_team": "Denmark",
-                        "away_team": "Lithuania",
-                        "home_score": 5,
-                        "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "Denmark"
-                    },
-                    {
-                        "date": "2025-09-04",
-                        "home_team": "Lithuania",
-                        "away_team": "Malta",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "World Cup qualifier",
-                        "host": "Lithuania"
-                    },
-                    {
-                        "date": "2025-09-07",
-                        "home_team": "Lithuania",
-                        "away_team": "Netherlands",
-                        "home_score": 2,
-                        "away_score": 3,
-                        "tournament": "World Cup qualifier",
-                        "host": "Lithuania"
-                    },
-                    {
-                        "date": "2025-10-09",
-                        "home_team": "Finland",
-                        "away_team": "Lithuania",
-                        "home_score": 2,
-                        "away_score": 1,
-                        "tournament": "World Cup qualifier",
-                        "host": "Finland"
-                    },
-                    {
-                        "date": "2025-10-12",
-                        "home_team": "Lithuania",
-                        "away_team": "Poland",
-                        "home_score": 0,
-                        "away_score": 2,
-                        "tournament": "World Cup qualifier",
-                        "host": "Lithuania"
-                    },
-                    {
-                        "date": "2025-11-13",
-                        "home_team": "Lithuania",
-                        "away_team": "Israel",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "Lithuania"
-                    },
-                    {
-                        "date": "2025-11-17",
-                        "home_team": "Netherlands",
-                        "away_team": "Lithuania",
-                        "home_score": 4,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Netherlands"
+                        "away_score": 4,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "Chad"
                     }
                 ],
                 "details_end": {}
@@ -28910,144 +29312,153 @@
                     }
                 ],
                 "details_end": {}
+            },
+            {
+                "country": "Gibraltar",
+                "current": true,
+                "total": 14,
+                "wins": 0,
+                "draws": 3,
+                "losses": 11,
+                "date_started": "2024-10-13",
+                "details_streak": [
+                    {
+                        "date": "2024-10-13",
+                        "home_team": "Liechtenstein",
+                        "away_team": "Gibraltar",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "European Nations League D",
+                        "host": "Liechtenstein"
+                    },
+                    {
+                        "date": "2024-11-15",
+                        "home_team": "San Marino",
+                        "away_team": "Gibraltar",
+                        "home_score": 1,
+                        "away_score": 1,
+                        "tournament": "European Nations League D",
+                        "host": "San Marino"
+                    },
+                    {
+                        "date": "2024-11-19",
+                        "home_team": "Gibraltar",
+                        "away_team": "Moldova",
+                        "home_score": 1,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "Gibraltar"
+                    },
+                    {
+                        "date": "2025-03-22",
+                        "home_team": "Montenegro",
+                        "away_team": "Gibraltar",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Montenegro"
+                    },
+                    {
+                        "date": "2025-03-25",
+                        "home_team": "Czechia",
+                        "away_team": "Gibraltar",
+                        "home_score": 4,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Portugal"
+                    },
+                    {
+                        "date": "2025-06-06",
+                        "home_team": "Croatia",
+                        "away_team": "Gibraltar",
+                        "home_score": 7,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Portugal"
+                    },
+                    {
+                        "date": "2025-06-09",
+                        "home_team": "Faroe Islands",
+                        "away_team": "Gibraltar",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Faroe Islands"
+                    },
+                    {
+                        "date": "2025-09-04",
+                        "home_team": "Gibraltar",
+                        "away_team": "Albania",
+                        "home_score": 0,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "Gibraltar"
+                    },
+                    {
+                        "date": "2025-09-08",
+                        "home_team": "Gibraltar",
+                        "away_team": "Faroe Islands",
+                        "home_score": 0,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Gibraltar"
+                    },
+                    {
+                        "date": "2025-10-08",
+                        "home_team": "Gibraltar",
+                        "away_team": "New Caledonia",
+                        "home_score": 0,
+                        "away_score": 2,
+                        "tournament": "Friendly",
+                        "host": "Gibraltar"
+                    },
+                    {
+                        "date": "2025-10-12",
+                        "home_team": "Croatia",
+                        "away_team": "Gibraltar",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Croatia"
+                    },
+                    {
+                        "date": "2025-11-14",
+                        "home_team": "Gibraltar",
+                        "away_team": "Montenegro",
+                        "home_score": 1,
+                        "away_score": 2,
+                        "tournament": "World Cup qualifier",
+                        "host": "Gibraltar"
+                    },
+                    {
+                        "date": "2025-11-17",
+                        "home_team": "Czechia",
+                        "away_team": "Gibraltar",
+                        "home_score": 6,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Czechia"
+                    },
+                    {
+                        "date": "2026-03-26",
+                        "home_team": "Gibraltar",
+                        "away_team": "Latvia",
+                        "home_score": 0,
+                        "away_score": 1,
+                        "tournament": "European Nations League C/D",
+                        "host": "Gibraltar"
+                    }
+                ],
+                "details_end": {}
             }
         ],
         "Drawing": [
             {
-                "country": "Afghanistan",
+                "country": "Guinea",
                 "current": true,
                 "total": 3,
                 "wins": 0,
                 "draws": 3,
-                "losses": 0,
-                "date_started": "2025-09-04",
-                "details_streak": [
-                    {
-                        "date": "2025-09-04",
-                        "home_team": "Afghanistan",
-                        "away_team": "India",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Central Asian Nations Cup",
-                        "host": "Tajikistan"
-                    },
-                    {
-                        "date": "2025-10-09",
-                        "home_team": "Pakistan",
-                        "away_team": "Afghanistan",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Pakistan"
-                    },
-                    {
-                        "date": "2025-10-14",
-                        "home_team": "Afghanistan",
-                        "away_team": "Pakistan",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Kuwait"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Iran",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2025-11-13",
-                "details_streak": [
-                    {
-                        "date": "2025-11-13",
-                        "home_team": "Cape Verde",
-                        "away_team": "Iran",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Friendly tournament",
-                        "host": "United Arab Emirates"
-                    },
-                    {
-                        "date": "2025-11-18",
-                        "home_team": "Iran",
-                        "away_team": "Uzbekistan",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Friendly tournament",
-                        "host": "United Arab Emirates"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Nigeria",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2026-01-14",
-                "details_streak": [
-                    {
-                        "date": "2026-01-14",
-                        "home_team": "Morocco",
-                        "away_team": "Nigeria",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "African Nations Cup",
-                        "host": "Morocco"
-                    },
-                    {
-                        "date": "2026-01-17",
-                        "home_team": "Egypt",
-                        "away_team": "Nigeria",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "African Nations Cup",
-                        "host": "Morocco"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Tunisia",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2025-12-30",
-                "details_streak": [
-                    {
-                        "date": "2025-12-30",
-                        "home_team": "Tanzania",
-                        "away_team": "Tunisia",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "African Nations Cup",
-                        "host": "Morocco"
-                    },
-                    {
-                        "date": "2026-01-03",
-                        "home_team": "Mali",
-                        "away_team": "Tunisia",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "African Nations Cup",
-                        "host": "Morocco"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Guinea",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
                 "losses": 0,
                 "date_started": "2025-11-18",
                 "details_streak": [
@@ -29068,6 +29479,303 @@
                         "away_score": 2,
                         "tournament": "World Cup qualifier",
                         "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Guinea",
+                        "away_team": "Togo",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "Friendly",
+                        "host": "Morocco"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Dominican Republic",
+                "current": true,
+                "total": 3,
+                "wins": 0,
+                "draws": 3,
+                "losses": 0,
+                "date_started": "2025-11-18",
+                "details_streak": [
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Dominican Republic",
+                        "away_team": "Martinique",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Series",
+                        "host": "Dominican Republic"
+                    },
+                    {
+                        "date": "2026-03-26",
+                        "home_team": "Dominican Republic",
+                        "away_team": "El Salvador",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "CONCACAF Series",
+                        "host": "Dominican Republic"
+                    },
+                    {
+                        "date": "2026-03-29",
+                        "home_team": "Dominican Republic",
+                        "away_team": "Cuba",
+                        "home_score": 1,
+                        "away_score": 1,
+                        "tournament": "CONCACAF Series",
+                        "host": "Dominican Republic"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Comoros",
+                "current": true,
+                "total": 3,
+                "wins": 0,
+                "draws": 3,
+                "losses": 0,
+                "date_started": "2025-12-26",
+                "details_streak": [
+                    {
+                        "date": "2025-12-26",
+                        "home_team": "Comoros",
+                        "away_team": "Zambia",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2025-12-29",
+                        "home_team": "Comoros",
+                        "away_team": "Mali",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-03-28",
+                        "home_team": "Comoros",
+                        "away_team": "Namibia",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "FIFA Series",
+                        "host": "Kazakhstan"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Cuba",
+                "current": true,
+                "total": 2,
+                "wins": 0,
+                "draws": 2,
+                "losses": 0,
+                "date_started": "2026-03-26",
+                "details_streak": [
+                    {
+                        "date": "2026-03-26",
+                        "home_team": "Cuba",
+                        "away_team": "Martinique",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "CONCACAF Series",
+                        "host": "Dominican Republic"
+                    },
+                    {
+                        "date": "2026-03-29",
+                        "home_team": "Dominican Republic",
+                        "away_team": "Cuba",
+                        "home_score": 1,
+                        "away_score": 1,
+                        "tournament": "CONCACAF Series",
+                        "host": "Dominican Republic"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Costa Rica",
+                "current": true,
+                "total": 2,
+                "wins": 0,
+                "draws": 2,
+                "losses": 0,
+                "date_started": "2025-11-18",
+                "details_streak": [
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Costa Rica",
+                        "away_team": "Honduras",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Costa Rica"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Costa Rica",
+                        "away_team": "Jordan",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "Friendly tournament",
+                        "host": "Turkey"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Mauritius",
+                "current": true,
+                "total": 2,
+                "wins": 0,
+                "draws": 2,
+                "losses": 0,
+                "date_started": "2025-10-13",
+                "details_streak": [
+                    {
+                        "date": "2025-10-13",
+                        "home_team": "Mauritius",
+                        "away_team": "Libya",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Mauritius"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Mauritius",
+                        "away_team": "Somalia",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "Mozambique"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Togo",
+                "current": true,
+                "total": 2,
+                "wins": 0,
+                "draws": 2,
+                "losses": 0,
+                "date_started": "2025-10-13",
+                "details_streak": [
+                    {
+                        "date": "2025-10-13",
+                        "home_team": "South Sudan",
+                        "away_team": "Togo",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "South Sudan"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Guinea",
+                        "away_team": "Togo",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "Friendly",
+                        "host": "Morocco"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Libya",
+                "current": true,
+                "total": 2,
+                "wins": 0,
+                "draws": 2,
+                "losses": 0,
+                "date_started": "2025-11-25",
+                "details_streak": [
+                    {
+                        "date": "2025-11-25",
+                        "home_team": "Libya",
+                        "away_team": "Palestine",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "Arab Cup qualifier",
+                        "host": "Qatar"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Libya",
+                        "away_team": "Niger",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Morocco"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Niger",
+                "current": true,
+                "total": 2,
+                "wins": 0,
+                "draws": 2,
+                "losses": 0,
+                "date_started": "2025-11-18",
+                "details_streak": [
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Guinea",
+                        "away_team": "Niger",
+                        "home_score": 1,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Libya",
+                        "away_team": "Niger",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Morocco"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Somalia",
+                "current": true,
+                "total": 2,
+                "wins": 0,
+                "draws": 2,
+                "losses": 0,
+                "date_started": "2025-11-26",
+                "details_streak": [
+                    {
+                        "date": "2025-11-26",
+                        "home_team": "Oman",
+                        "away_team": "Somalia",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "Arab Cup qualifier",
+                        "host": "Qatar"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Mauritius",
+                        "away_team": "Somalia",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "Mozambique"
                     }
                 ],
                 "details_end": {}
@@ -29103,67 +29811,7 @@
                 "details_end": {}
             },
             {
-                "country": "Cape Verde",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2025-11-13",
-                "details_streak": [
-                    {
-                        "date": "2025-11-13",
-                        "home_team": "Cape Verde",
-                        "away_team": "Iran",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Friendly tournament",
-                        "host": "United Arab Emirates"
-                    },
-                    {
-                        "date": "2025-11-17",
-                        "home_team": "Cape Verde",
-                        "away_team": "Egypt",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "Friendly tournament",
-                        "host": "United Arab Emirates"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Comoros",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2025-12-26",
-                "details_streak": [
-                    {
-                        "date": "2025-12-26",
-                        "home_team": "Comoros",
-                        "away_team": "Zambia",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "African Nations Cup",
-                        "host": "Morocco"
-                    },
-                    {
-                        "date": "2025-12-29",
-                        "home_team": "Comoros",
-                        "away_team": "Mali",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "African Nations Cup",
-                        "host": "Morocco"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Uzbekistan",
+                "country": "Bosnia and Herzegovina",
                 "current": true,
                 "total": 2,
                 "wins": 0,
@@ -29173,51 +29821,21 @@
                 "details_streak": [
                     {
                         "date": "2025-11-18",
-                        "home_team": "Iran",
-                        "away_team": "Uzbekistan",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Friendly tournament",
-                        "host": "United Arab Emirates"
+                        "home_team": "Austria",
+                        "away_team": "Bosnia and Herzegovina",
+                        "home_score": 1,
+                        "away_score": 1,
+                        "tournament": "World Cup qualifier",
+                        "host": "Austria"
                     },
                     {
-                        "date": "2026-01-26",
-                        "home_team": "China",
-                        "away_team": "Uzbekistan",
-                        "home_score": 2,
-                        "away_score": 2,
-                        "tournament": "Friendly",
-                        "host": "United Arab Emirates"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Belarus",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2025-11-15",
-                "details_streak": [
-                    {
-                        "date": "2025-11-15",
-                        "home_team": "Denmark",
-                        "away_team": "Belarus",
-                        "home_score": 2,
-                        "away_score": 2,
+                        "date": "2026-03-26",
+                        "home_team": "Wales",
+                        "away_team": "Bosnia and Herzegovina",
+                        "home_score": 1,
+                        "away_score": 1,
                         "tournament": "World Cup qualifier",
-                        "host": "Denmark"
-                    },
-                    {
-                        "date": "2025-11-18",
-                        "home_team": "Belarus",
-                        "away_team": "Greece",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Hungary"
+                        "host": "Wales"
                     }
                 ],
                 "details_end": {}
