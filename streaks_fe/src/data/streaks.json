@@ -1,5 +1,5 @@
 {
-    "date_updated": "2026-08-30T23:41:18.731047-06:00",
+    "date_updated": "2026-09-06T23:41:18.923459-06:00",
     "all_time": {
         "Unbeaten": [
             {
@@ -27307,122 +27307,11 @@
                 "details_end": {}
             },
             {
-                "country": "Thailand",
-                "current": true,
-                "total": 11,
-                "wins": 9,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2025-10-09",
-                "details_streak": [
-                    {
-                        "date": "2025-10-09",
-                        "home_team": "Thailand",
-                        "away_team": "Taiwan",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Thailand"
-                    },
-                    {
-                        "date": "2025-10-14",
-                        "home_team": "Taiwan",
-                        "away_team": "Thailand",
-                        "home_score": 1,
-                        "away_score": 6,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Taiwan"
-                    },
-                    {
-                        "date": "2025-11-13",
-                        "home_team": "Thailand",
-                        "away_team": "Singapore",
-                        "home_score": 3,
-                        "away_score": 2,
-                        "tournament": "Friendly",
-                        "host": "Thailand"
-                    },
-                    {
-                        "date": "2025-11-18",
-                        "home_team": "Sri Lanka",
-                        "away_team": "Thailand",
-                        "home_score": 0,
-                        "away_score": 4,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Sri Lanka"
-                    },
-                    {
-                        "date": "2026-03-31",
-                        "home_team": "Thailand",
-                        "away_team": "Turkmenistan",
-                        "home_score": 2,
-                        "away_score": 1,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Thailand"
-                    },
-                    {
-                        "date": "2026-06-05",
-                        "home_team": "Thailand",
-                        "away_team": "Kuwait",
-                        "home_score": 2,
-                        "away_score": 2,
-                        "tournament": "Friendly",
-                        "host": "Thailand"
-                    },
-                    {
-                        "date": "2026-06-09",
-                        "home_team": "China",
-                        "away_team": "Thailand",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "China"
-                    },
-                    {
-                        "date": "2026-07-25",
-                        "home_team": "Laos",
-                        "away_team": "Thailand",
-                        "home_score": 0,
-                        "away_score": 5,
-                        "tournament": "Southeast Asian Champ",
-                        "host": "Laos"
-                    },
-                    {
-                        "date": "2026-08-01",
-                        "home_team": "Thailand",
-                        "away_team": "Malaysia",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "Southeast Asian Champ",
-                        "host": "Thailand"
-                    },
-                    {
-                        "date": "2026-08-04",
-                        "home_team": "Philippines",
-                        "away_team": "Thailand",
-                        "home_score": 0,
-                        "away_score": 1,
-                        "tournament": "Southeast Asian Champ",
-                        "host": "Philippines"
-                    },
-                    {
-                        "date": "2026-08-08",
-                        "home_team": "Thailand",
-                        "away_team": "Myanmar",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "Southeast Asian Champ",
-                        "host": "Thailand"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
                 "country": "Vietnam",
                 "current": true,
-                "total": 10,
-                "wins": 9,
-                "draws": 1,
+                "total": 14,
+                "wins": 12,
+                "draws": 2,
                 "losses": 0,
                 "date_started": "2025-10-09",
                 "details_streak": [
@@ -27513,6 +27402,42 @@
                         "away_team": "Cambodia",
                         "home_score": 3,
                         "away_score": 1,
+                        "tournament": "Southeast Asian Champ",
+                        "host": "Vietnam"
+                    },
+                    {
+                        "date": "2026-08-16",
+                        "home_team": "Malaysia",
+                        "away_team": "Vietnam",
+                        "home_score": 0,
+                        "away_score": 2,
+                        "tournament": "Southeast Asian Champ",
+                        "host": "Malaysia"
+                    },
+                    {
+                        "date": "2026-08-19",
+                        "home_team": "Vietnam",
+                        "away_team": "Malaysia",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "Southeast Asian Champ",
+                        "host": "Vietnam"
+                    },
+                    {
+                        "date": "2026-08-22",
+                        "home_team": "Thailand",
+                        "away_team": "Vietnam",
+                        "home_score": 0,
+                        "away_score": 2,
+                        "tournament": "Southeast Asian Champ",
+                        "host": "Thailand"
+                    },
+                    {
+                        "date": "2026-08-26",
+                        "home_team": "Vietnam",
+                        "away_team": "Thailand",
+                        "home_score": 2,
+                        "away_score": 2,
                         "tournament": "Southeast Asian Champ",
                         "host": "Vietnam"
                     }
@@ -28008,54 +27933,6 @@
                 "details_end": {}
             },
             {
-                "country": "Thailand",
-                "current": true,
-                "total": 4,
-                "wins": 4,
-                "draws": 0,
-                "losses": 0,
-                "date_started": "2026-07-25",
-                "details_streak": [
-                    {
-                        "date": "2026-07-25",
-                        "home_team": "Laos",
-                        "away_team": "Thailand",
-                        "home_score": 0,
-                        "away_score": 5,
-                        "tournament": "Southeast Asian Champ",
-                        "host": "Laos"
-                    },
-                    {
-                        "date": "2026-08-01",
-                        "home_team": "Thailand",
-                        "away_team": "Malaysia",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "Southeast Asian Champ",
-                        "host": "Thailand"
-                    },
-                    {
-                        "date": "2026-08-04",
-                        "home_team": "Philippines",
-                        "away_team": "Thailand",
-                        "home_score": 0,
-                        "away_score": 1,
-                        "tournament": "Southeast Asian Champ",
-                        "host": "Philippines"
-                    },
-                    {
-                        "date": "2026-08-08",
-                        "home_team": "Thailand",
-                        "away_team": "Myanmar",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "Southeast Asian Champ",
-                        "host": "Thailand"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
                 "country": "Pakistan",
                 "current": true,
                 "total": 3,
@@ -28360,36 +28237,6 @@
                         "away_score": 2,
                         "tournament": "African Nations Cup qualifier",
                         "host": "Eswatini"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Vietnam",
-                "current": true,
-                "total": 2,
-                "wins": 2,
-                "draws": 0,
-                "losses": 0,
-                "date_started": "2026-08-03",
-                "details_streak": [
-                    {
-                        "date": "2026-08-03",
-                        "home_team": "Indonesia",
-                        "away_team": "Vietnam",
-                        "home_score": 0,
-                        "away_score": 3,
-                        "tournament": "Southeast Asian Champ",
-                        "host": "Indonesia"
-                    },
-                    {
-                        "date": "2026-08-07",
-                        "home_team": "Vietnam",
-                        "away_team": "Cambodia",
-                        "home_score": 3,
-                        "away_score": 1,
-                        "tournament": "Southeast Asian Champ",
-                        "host": "Vietnam"
                     }
                 ],
                 "details_end": {}
@@ -30103,36 +29950,6 @@
                         "away_score": 1,
                         "tournament": "CONCACAF Series",
                         "host": "Dominican Republic"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Singapore",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2026-07-31",
-                "details_streak": [
-                    {
-                        "date": "2026-07-31",
-                        "home_team": "Vietnam",
-                        "away_team": "Singapore",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Southeast Asian Champ",
-                        "host": "Vietnam"
-                    },
-                    {
-                        "date": "2026-08-07",
-                        "home_team": "Singapore",
-                        "away_team": "Indonesia",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "Southeast Asian Champ",
-                        "host": "Singapore"
                     }
                 ],
                 "details_end": {}
