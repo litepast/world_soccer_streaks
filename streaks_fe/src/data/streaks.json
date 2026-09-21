@@ -1,5 +1,5 @@
 {
-    "date_updated": "2026-09-13T23:41:19.006022-06:00",
+    "date_updated": "2026-09-20T23:41:18.230631-06:00",
     "all_time": {
         "Unbeaten": [
             {
@@ -27445,6 +27445,99 @@
                 "details_end": {}
             },
             {
+                "country": "Yemen",
+                "current": true,
+                "total": 9,
+                "wins": 6,
+                "draws": 3,
+                "losses": 0,
+                "date_started": "2024-12-28",
+                "details_streak": [
+                    {
+                        "date": "2024-12-28",
+                        "home_team": "Yemen",
+                        "away_team": "Bahrain",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Gulf Cup",
+                        "host": "Kuwait"
+                    },
+                    {
+                        "date": "2025-03-25",
+                        "home_team": "Bhutan",
+                        "away_team": "Yemen",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Bhutan"
+                    },
+                    {
+                        "date": "2025-06-10",
+                        "home_team": "Lebanon",
+                        "away_team": "Yemen",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Kuwait"
+                    },
+                    {
+                        "date": "2025-10-09",
+                        "home_team": "Brunei",
+                        "away_team": "Yemen",
+                        "home_score": 0,
+                        "away_score": 2,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Brunei"
+                    },
+                    {
+                        "date": "2025-10-14",
+                        "home_team": "Yemen",
+                        "away_team": "Brunei",
+                        "home_score": 9,
+                        "away_score": 0,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Kuwait"
+                    },
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Yemen",
+                        "away_team": "Bhutan",
+                        "home_score": 7,
+                        "away_score": 1,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Kuwait"
+                    },
+                    {
+                        "date": "2025-11-26",
+                        "home_team": "Comoros",
+                        "away_team": "Yemen",
+                        "home_score": 4,
+                        "away_score": 4,
+                        "tournament": "Arab Cup qualifier",
+                        "host": "Qatar"
+                    },
+                    {
+                        "date": "2026-06-04",
+                        "home_team": "Yemen",
+                        "away_team": "Lebanon",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Qatar"
+                    },
+                    {
+                        "date": "2026-09-18",
+                        "home_team": "Yemen",
+                        "away_team": "Kuwait",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "Saudi Arabia"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
                 "country": "Ireland",
                 "current": true,
                 "total": 8,
@@ -27524,90 +27617,6 @@
                         "away_score": 1,
                         "tournament": "Friendly",
                         "host": "Canada"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Yemen",
-                "current": true,
-                "total": 8,
-                "wins": 5,
-                "draws": 3,
-                "losses": 0,
-                "date_started": "2024-12-28",
-                "details_streak": [
-                    {
-                        "date": "2024-12-28",
-                        "home_team": "Yemen",
-                        "away_team": "Bahrain",
-                        "home_score": 2,
-                        "away_score": 1,
-                        "tournament": "Gulf Cup",
-                        "host": "Kuwait"
-                    },
-                    {
-                        "date": "2025-03-25",
-                        "home_team": "Bhutan",
-                        "away_team": "Yemen",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Bhutan"
-                    },
-                    {
-                        "date": "2025-06-10",
-                        "home_team": "Lebanon",
-                        "away_team": "Yemen",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Kuwait"
-                    },
-                    {
-                        "date": "2025-10-09",
-                        "home_team": "Brunei",
-                        "away_team": "Yemen",
-                        "home_score": 0,
-                        "away_score": 2,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Brunei"
-                    },
-                    {
-                        "date": "2025-10-14",
-                        "home_team": "Yemen",
-                        "away_team": "Brunei",
-                        "home_score": 9,
-                        "away_score": 0,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Kuwait"
-                    },
-                    {
-                        "date": "2025-11-18",
-                        "home_team": "Yemen",
-                        "away_team": "Bhutan",
-                        "home_score": 7,
-                        "away_score": 1,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Kuwait"
-                    },
-                    {
-                        "date": "2025-11-26",
-                        "home_team": "Comoros",
-                        "away_team": "Yemen",
-                        "home_score": 4,
-                        "away_score": 4,
-                        "tournament": "Arab Cup qualifier",
-                        "host": "Qatar"
-                    },
-                    {
-                        "date": "2026-06-04",
-                        "home_team": "Yemen",
-                        "away_team": "Lebanon",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Qatar"
                     }
                 ],
                 "details_end": {}
@@ -28207,6 +28216,36 @@
                         "away_score": 3,
                         "tournament": "CONCACAF Series",
                         "host": "Bonaire"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Yemen",
+                "current": true,
+                "total": 2,
+                "wins": 2,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2026-06-04",
+                "details_streak": [
+                    {
+                        "date": "2026-06-04",
+                        "home_team": "Yemen",
+                        "away_team": "Lebanon",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Qatar"
+                    },
+                    {
+                        "date": "2026-09-18",
+                        "home_team": "Yemen",
+                        "away_team": "Kuwait",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "Saudi Arabia"
                     }
                 ],
                 "details_end": {}
@@ -29980,6 +30019,36 @@
                         "away_score": 0,
                         "tournament": "Friendly",
                         "host": "Kyrgyzstan"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Fiji",
+                "current": true,
+                "total": 2,
+                "wins": 0,
+                "draws": 2,
+                "losses": 0,
+                "date_started": "2026-06-09",
+                "details_streak": [
+                    {
+                        "date": "2026-06-09",
+                        "home_team": "Vanuatu",
+                        "away_team": "Fiji",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "Friendly",
+                        "host": "Vanuatu"
+                    },
+                    {
+                        "date": "2026-09-18",
+                        "home_team": "Fiji",
+                        "away_team": "Solomon Islands",
+                        "home_score": 3,
+                        "away_score": 3,
+                        "tournament": "Melanesian Cup",
+                        "host": "Fiji"
                     }
                 ],
                 "details_end": {}
