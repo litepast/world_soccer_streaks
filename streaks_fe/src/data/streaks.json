@@ -1,5 +1,5 @@
 {
-    "date_updated": "2026-09-20T23:41:18.230631-06:00",
+    "date_updated": "2026-09-27T23:41:18.248211-06:00",
     "all_time": {
         "Unbeaten": [
             {
@@ -27445,272 +27445,11 @@
                 "details_end": {}
             },
             {
-                "country": "Yemen",
-                "current": true,
-                "total": 9,
-                "wins": 6,
-                "draws": 3,
-                "losses": 0,
-                "date_started": "2024-12-28",
-                "details_streak": [
-                    {
-                        "date": "2024-12-28",
-                        "home_team": "Yemen",
-                        "away_team": "Bahrain",
-                        "home_score": 2,
-                        "away_score": 1,
-                        "tournament": "Gulf Cup",
-                        "host": "Kuwait"
-                    },
-                    {
-                        "date": "2025-03-25",
-                        "home_team": "Bhutan",
-                        "away_team": "Yemen",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Bhutan"
-                    },
-                    {
-                        "date": "2025-06-10",
-                        "home_team": "Lebanon",
-                        "away_team": "Yemen",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Kuwait"
-                    },
-                    {
-                        "date": "2025-10-09",
-                        "home_team": "Brunei",
-                        "away_team": "Yemen",
-                        "home_score": 0,
-                        "away_score": 2,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Brunei"
-                    },
-                    {
-                        "date": "2025-10-14",
-                        "home_team": "Yemen",
-                        "away_team": "Brunei",
-                        "home_score": 9,
-                        "away_score": 0,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Kuwait"
-                    },
-                    {
-                        "date": "2025-11-18",
-                        "home_team": "Yemen",
-                        "away_team": "Bhutan",
-                        "home_score": 7,
-                        "away_score": 1,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Kuwait"
-                    },
-                    {
-                        "date": "2025-11-26",
-                        "home_team": "Comoros",
-                        "away_team": "Yemen",
-                        "home_score": 4,
-                        "away_score": 4,
-                        "tournament": "Arab Cup qualifier",
-                        "host": "Qatar"
-                    },
-                    {
-                        "date": "2026-06-04",
-                        "home_team": "Yemen",
-                        "away_team": "Lebanon",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Qatar"
-                    },
-                    {
-                        "date": "2026-09-18",
-                        "home_team": "Yemen",
-                        "away_team": "Kuwait",
-                        "home_score": 2,
-                        "away_score": 1,
-                        "tournament": "Friendly",
-                        "host": "Saudi Arabia"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Ireland",
-                "current": true,
-                "total": 8,
-                "wins": 5,
-                "draws": 3,
-                "losses": 0,
-                "date_started": "2025-10-14",
-                "details_streak": [
-                    {
-                        "date": "2025-10-14",
-                        "home_team": "Ireland",
-                        "away_team": "Armenia",
-                        "home_score": 1,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Ireland"
-                    },
-                    {
-                        "date": "2025-11-13",
-                        "home_team": "Ireland",
-                        "away_team": "Portugal",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Ireland"
-                    },
-                    {
-                        "date": "2025-11-16",
-                        "home_team": "Hungary",
-                        "away_team": "Ireland",
-                        "home_score": 2,
-                        "away_score": 3,
-                        "tournament": "World Cup qualifier",
-                        "host": "Hungary"
-                    },
-                    {
-                        "date": "2026-03-26",
-                        "home_team": "Czechia",
-                        "away_team": "Ireland",
-                        "home_score": 2,
-                        "away_score": 2,
-                        "tournament": "World Cup qualifier",
-                        "host": "Czechia"
-                    },
-                    {
-                        "date": "2026-03-31",
-                        "home_team": "Ireland",
-                        "away_team": "North Macedonia",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "Ireland"
-                    },
-                    {
-                        "date": "2026-05-16",
-                        "home_team": "Ireland",
-                        "away_team": "Grenada",
-                        "home_score": 5,
-                        "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "Spain"
-                    },
-                    {
-                        "date": "2026-05-28",
-                        "home_team": "Ireland",
-                        "away_team": "Qatar",
-                        "home_score": 1,
-                        "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "Ireland"
-                    },
-                    {
-                        "date": "2026-06-05",
-                        "home_team": "Canada",
-                        "away_team": "Ireland",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "Friendly",
-                        "host": "Canada"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Tajikistan",
-                "current": true,
-                "total": 8,
-                "wins": 5,
-                "draws": 3,
-                "losses": 0,
-                "date_started": "2025-09-01",
-                "details_streak": [
-                    {
-                        "date": "2025-09-01",
-                        "home_team": "Tajikistan",
-                        "away_team": "Afghanistan",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "Central Asian Nations Cup",
-                        "host": "Tajikistan"
-                    },
-                    {
-                        "date": "2025-09-04",
-                        "home_team": "Tajikistan",
-                        "away_team": "Iran",
-                        "home_score": 2,
-                        "away_score": 2,
-                        "tournament": "Central Asian Nations Cup",
-                        "host": "Tajikistan"
-                    },
-                    {
-                        "date": "2025-10-09",
-                        "home_team": "Tajikistan",
-                        "away_team": "Maldives",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Tajikistan"
-                    },
-                    {
-                        "date": "2025-10-14",
-                        "home_team": "Maldives",
-                        "away_team": "Tajikistan",
-                        "home_score": 0,
-                        "away_score": 3,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Maldives"
-                    },
-                    {
-                        "date": "2025-11-18",
-                        "home_team": "Tajikistan",
-                        "away_team": "East Timor",
-                        "home_score": 5,
-                        "away_score": 0,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Australia"
-                    },
-                    {
-                        "date": "2026-03-31",
-                        "home_team": "Tajikistan",
-                        "away_team": "Philippines",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Tajikistan"
-                    },
-                    {
-                        "date": "2026-06-05",
-                        "home_team": "Tajikistan",
-                        "away_team": "India",
-                        "home_score": 3,
-                        "away_score": 1,
-                        "tournament": "Friendly",
-                        "host": "Tajikistan"
-                    },
-                    {
-                        "date": "2026-06-09",
-                        "home_team": "Tajikistan",
-                        "away_team": "India",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "Friendly",
-                        "host": "Tajikistan"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
                 "country": "Libya",
                 "current": true,
-                "total": 8,
+                "total": 9,
                 "wins": 3,
-                "draws": 5,
+                "draws": 6,
                 "losses": 0,
                 "date_started": "2025-09-04",
                 "details_streak": [
@@ -27785,12 +27524,339 @@
                         "away_score": 2,
                         "tournament": "Friendly",
                         "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-09-24",
+                        "home_team": "Libya",
+                        "away_team": "Botswana",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "Libya"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Guyana",
+                "current": true,
+                "total": 8,
+                "wins": 8,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2025-06-10",
+                "details_streak": [
+                    {
+                        "date": "2025-06-10",
+                        "home_team": "Guyana",
+                        "away_team": "Montserrat",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Guyana"
+                    },
+                    {
+                        "date": "2025-11-15",
+                        "home_team": "Guyana",
+                        "away_team": "Bonaire",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Friendly tournament",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Guyana",
+                        "home_score": 1,
+                        "away_score": 4,
+                        "tournament": "Friendly tournament",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2025-11-15",
+                        "home_team": "Guyana",
+                        "away_team": "Bonaire",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "CONCACAF Series",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Guyana",
+                        "home_score": 1,
+                        "away_score": 4,
+                        "tournament": "CONCACAF Series",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Guyana",
+                        "away_team": "Dominica",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Series",
+                        "host": "Dominican Republic"
+                    },
+                    {
+                        "date": "2026-03-30",
+                        "home_team": "Guyana",
+                        "away_team": "Belize",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "CONCACAF Series",
+                        "host": "Dominican Republic"
+                    },
+                    {
+                        "date": "2026-09-24",
+                        "home_team": "Guyana",
+                        "away_team": "Puerto Rico",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Dominica"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Colombia",
+                "current": true,
+                "total": 7,
+                "wins": 5,
+                "draws": 2,
+                "losses": 0,
+                "date_started": "2026-06-01",
+                "details_streak": [
+                    {
+                        "date": "2026-06-01",
+                        "home_team": "Colombia",
+                        "away_team": "Costa Rica",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "Colombia"
+                    },
+                    {
+                        "date": "2026-06-07",
+                        "home_team": "Colombia",
+                        "away_team": "Jordan",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "United States"
+                    },
+                    {
+                        "date": "2026-06-17",
+                        "home_team": "Colombia",
+                        "away_team": "Uzbekistan",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "World Cup",
+                        "host": "Mexico"
+                    },
+                    {
+                        "date": "2026-06-23",
+                        "home_team": "Colombia",
+                        "away_team": "DR Congo",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "World Cup",
+                        "host": "Mexico"
+                    },
+                    {
+                        "date": "2026-06-27",
+                        "home_team": "Colombia",
+                        "away_team": "Portugal",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "World Cup",
+                        "host": "United States"
+                    },
+                    {
+                        "date": "2026-07-03",
+                        "home_team": "Colombia",
+                        "away_team": "Ghana",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "World Cup",
+                        "host": "United States"
+                    },
+                    {
+                        "date": "2026-07-07",
+                        "home_team": "Colombia",
+                        "away_team": "Switzerland",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "World Cup",
+                        "host": "Canada"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Sint Maarten",
+                "current": true,
+                "total": 7,
+                "wins": 4,
+                "draws": 3,
+                "losses": 0,
+                "date_started": "2024-11-18",
+                "details_streak": [
+                    {
+                        "date": "2024-11-18",
+                        "home_team": "Sint Maarten",
+                        "away_team": "Aruba",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Puerto Rico"
+                    },
+                    {
+                        "date": "2025-11-12",
+                        "home_team": "Saint Kitts and Nevis",
+                        "away_team": "Sint Maarten",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "Friendly tournament",
+                        "host": "Saint Kitts and Nevis"
+                    },
+                    {
+                        "date": "2025-11-15",
+                        "home_team": "Sint Maarten",
+                        "away_team": "Dominica",
+                        "home_score": 3,
+                        "away_score": 2,
+                        "tournament": "Friendly tournament",
+                        "host": "Saint Kitts and Nevis"
+                    },
+                    {
+                        "date": "2025-11-12",
+                        "home_team": "Saint Kitts and Nevis",
+                        "away_team": "Sint Maarten",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Series",
+                        "host": "Saint Kitts and Nevis"
+                    },
+                    {
+                        "date": "2025-11-15",
+                        "home_team": "Sint Maarten",
+                        "away_team": "Dominica",
+                        "home_score": 3,
+                        "away_score": 2,
+                        "tournament": "CONCACAF Series",
+                        "host": "Saint Kitts and Nevis"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Sint Maarten",
+                        "away_team": "Belize",
+                        "home_score": 3,
+                        "away_score": 2,
+                        "tournament": "CONCACAF Series",
+                        "host": "Dominican Republic"
+                    },
+                    {
+                        "date": "2026-03-30",
+                        "home_team": "Dominica",
+                        "away_team": "Sint Maarten",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Series",
+                        "host": "Dominican Republic"
                     }
                 ],
                 "details_end": {}
             }
         ],
         "Winning": [
+            {
+                "country": "Guyana",
+                "current": true,
+                "total": 8,
+                "wins": 8,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2025-06-10",
+                "details_streak": [
+                    {
+                        "date": "2025-06-10",
+                        "home_team": "Guyana",
+                        "away_team": "Montserrat",
+                        "home_score": 3,
+                        "away_score": 0,
+                        "tournament": "World Cup qualifier",
+                        "host": "Guyana"
+                    },
+                    {
+                        "date": "2025-11-15",
+                        "home_team": "Guyana",
+                        "away_team": "Bonaire",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Friendly tournament",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Guyana",
+                        "home_score": 1,
+                        "away_score": 4,
+                        "tournament": "Friendly tournament",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2025-11-15",
+                        "home_team": "Guyana",
+                        "away_team": "Bonaire",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "CONCACAF Series",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Guyana",
+                        "home_score": 1,
+                        "away_score": 4,
+                        "tournament": "CONCACAF Series",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Guyana",
+                        "away_team": "Dominica",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Series",
+                        "host": "Dominican Republic"
+                    },
+                    {
+                        "date": "2026-03-30",
+                        "home_team": "Guyana",
+                        "away_team": "Belize",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "CONCACAF Series",
+                        "host": "Dominican Republic"
+                    },
+                    {
+                        "date": "2026-09-24",
+                        "home_team": "Guyana",
+                        "away_team": "Puerto Rico",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Nations League B",
+                        "host": "Dominica"
+                    }
+                ],
+                "details_end": {}
+            },
             {
                 "country": "Spain",
                 "current": true,
@@ -27867,81 +27933,6 @@
                 "details_end": {}
             },
             {
-                "country": "Guyana",
-                "current": true,
-                "total": 7,
-                "wins": 7,
-                "draws": 0,
-                "losses": 0,
-                "date_started": "2025-06-10",
-                "details_streak": [
-                    {
-                        "date": "2025-06-10",
-                        "home_team": "Guyana",
-                        "away_team": "Montserrat",
-                        "home_score": 3,
-                        "away_score": 0,
-                        "tournament": "World Cup qualifier",
-                        "host": "Guyana"
-                    },
-                    {
-                        "date": "2025-11-15",
-                        "home_team": "Guyana",
-                        "away_team": "Bonaire",
-                        "home_score": 2,
-                        "away_score": 1,
-                        "tournament": "Friendly tournament",
-                        "host": "Antigua and Barbuda"
-                    },
-                    {
-                        "date": "2025-11-18",
-                        "home_team": "Antigua and Barbuda",
-                        "away_team": "Guyana",
-                        "home_score": 1,
-                        "away_score": 4,
-                        "tournament": "Friendly tournament",
-                        "host": "Antigua and Barbuda"
-                    },
-                    {
-                        "date": "2025-11-15",
-                        "home_team": "Guyana",
-                        "away_team": "Bonaire",
-                        "home_score": 2,
-                        "away_score": 1,
-                        "tournament": "CONCACAF Series",
-                        "host": "Antigua and Barbuda"
-                    },
-                    {
-                        "date": "2025-11-18",
-                        "home_team": "Antigua and Barbuda",
-                        "away_team": "Guyana",
-                        "home_score": 1,
-                        "away_score": 4,
-                        "tournament": "CONCACAF Series",
-                        "host": "Antigua and Barbuda"
-                    },
-                    {
-                        "date": "2026-03-27",
-                        "home_team": "Guyana",
-                        "away_team": "Dominica",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "CONCACAF Series",
-                        "host": "Dominican Republic"
-                    },
-                    {
-                        "date": "2026-03-30",
-                        "home_team": "Guyana",
-                        "away_team": "Belize",
-                        "home_score": 3,
-                        "away_score": 1,
-                        "tournament": "CONCACAF Series",
-                        "host": "Dominican Republic"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
                 "country": "Pakistan",
                 "current": true,
                 "total": 3,
@@ -27976,6 +27967,45 @@
                         "away_score": 0,
                         "tournament": "Diamond Jubilee Tournament",
                         "host": "Maldives"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Saint Martin",
+                "current": true,
+                "total": 3,
+                "wins": 3,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2026-03-26",
+                "details_streak": [
+                    {
+                        "date": "2026-03-26",
+                        "home_team": "Saint Martin",
+                        "away_team": "Barbados",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "CONCACAF Series",
+                        "host": "Bonaire"
+                    },
+                    {
+                        "date": "2026-03-29",
+                        "home_team": "Bonaire",
+                        "away_team": "Saint Martin",
+                        "home_score": 0,
+                        "away_score": 3,
+                        "tournament": "CONCACAF Series",
+                        "host": "Bonaire"
+                    },
+                    {
+                        "date": "2026-09-23",
+                        "home_team": "Saint Martin",
+                        "away_team": "Bahamas",
+                        "home_score": 8,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Nations League C",
+                        "host": "US Virgin Islands"
                     }
                 ],
                 "details_end": {}
@@ -28101,6 +28131,96 @@
                 "details_end": {}
             },
             {
+                "country": "Azerbaijan",
+                "current": true,
+                "total": 2,
+                "wins": 2,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2026-06-09",
+                "details_streak": [
+                    {
+                        "date": "2026-06-09",
+                        "home_team": "Azerbaijan",
+                        "away_team": "San Marino",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "Hungary"
+                    },
+                    {
+                        "date": "2026-09-23",
+                        "home_team": "Azerbaijan",
+                        "away_team": "Tajikistan",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Azerbaijan"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Cameroon",
+                "current": true,
+                "total": 2,
+                "wins": 2,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2026-03-31",
+                "details_streak": [
+                    {
+                        "date": "2026-03-31",
+                        "home_team": "Cameroon",
+                        "away_team": "China",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "FIFA Series",
+                        "host": "Australia"
+                    },
+                    {
+                        "date": "2026-09-24",
+                        "home_team": "Cameroon",
+                        "away_team": "Comoros",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "Cameroon"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Malta",
+                "current": true,
+                "total": 2,
+                "wins": 2,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2026-06-05",
+                "details_streak": [
+                    {
+                        "date": "2026-06-05",
+                        "home_team": "Malta",
+                        "away_team": "Azerbaijan",
+                        "home_score": 2,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Hungary"
+                    },
+                    {
+                        "date": "2026-09-24",
+                        "home_team": "Andorra",
+                        "away_team": "Malta",
+                        "home_score": 1,
+                        "away_score": 2,
+                        "tournament": "European Nations League D",
+                        "host": "Andorra"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
                 "country": "Sri Lanka",
                 "current": true,
                 "total": 2,
@@ -28161,6 +28281,66 @@
                 "details_end": {}
             },
             {
+                "country": "Mauritania",
+                "current": true,
+                "total": 2,
+                "wins": 2,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2026-06-08",
+                "details_streak": [
+                    {
+                        "date": "2026-06-08",
+                        "home_team": "Mauritania",
+                        "away_team": "Niger",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-09-24",
+                        "home_team": "Mauritania",
+                        "away_team": "Central African Republic",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "Morocco"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Zimbabwe",
+                "current": true,
+                "total": 2,
+                "wins": 2,
+                "draws": 0,
+                "losses": 0,
+                "date_started": "2026-05-30",
+                "details_streak": [
+                    {
+                        "date": "2026-05-30",
+                        "home_team": "Zimbabwe",
+                        "away_team": "India",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "Unity Cup",
+                        "host": "England"
+                    },
+                    {
+                        "date": "2026-09-24",
+                        "home_team": "Zimbabwe",
+                        "away_team": "Sierra Leone",
+                        "home_score": 3,
+                        "away_score": 2,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "Morocco"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
                 "country": "Rwanda",
                 "current": true,
                 "total": 2,
@@ -28186,66 +28366,6 @@
                         "away_score": 0,
                         "tournament": "FIFA Series",
                         "host": "Rwanda"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Saint Martin",
-                "current": true,
-                "total": 2,
-                "wins": 2,
-                "draws": 0,
-                "losses": 0,
-                "date_started": "2026-03-26",
-                "details_streak": [
-                    {
-                        "date": "2026-03-26",
-                        "home_team": "Saint Martin",
-                        "away_team": "Barbados",
-                        "home_score": 3,
-                        "away_score": 1,
-                        "tournament": "CONCACAF Series",
-                        "host": "Bonaire"
-                    },
-                    {
-                        "date": "2026-03-29",
-                        "home_team": "Bonaire",
-                        "away_team": "Saint Martin",
-                        "home_score": 0,
-                        "away_score": 3,
-                        "tournament": "CONCACAF Series",
-                        "host": "Bonaire"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Yemen",
-                "current": true,
-                "total": 2,
-                "wins": 2,
-                "draws": 0,
-                "losses": 0,
-                "date_started": "2026-06-04",
-                "details_streak": [
-                    {
-                        "date": "2026-06-04",
-                        "home_team": "Yemen",
-                        "away_team": "Lebanon",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Qatar"
-                    },
-                    {
-                        "date": "2026-09-18",
-                        "home_team": "Yemen",
-                        "away_team": "Kuwait",
-                        "home_score": 2,
-                        "away_score": 1,
-                        "tournament": "Friendly",
-                        "host": "Saudi Arabia"
                     }
                 ],
                 "details_end": {}
@@ -28281,31 +28401,31 @@
                 "details_end": {}
             },
             {
-                "country": "Gibraltar",
+                "country": "Kosovo",
                 "current": true,
                 "total": 2,
                 "wins": 2,
                 "draws": 0,
                 "losses": 0,
-                "date_started": "2026-06-03",
+                "date_started": "2026-06-07",
                 "details_streak": [
                     {
-                        "date": "2026-06-03",
-                        "home_team": "Gibraltar",
-                        "away_team": "British Virgin Islands",
-                        "home_score": 4,
+                        "date": "2026-06-07",
+                        "home_team": "Kosovo",
+                        "away_team": "Andorra",
+                        "home_score": 3,
                         "away_score": 0,
                         "tournament": "Friendly",
-                        "host": "Gibraltar"
+                        "host": "Kosovo"
                     },
                     {
-                        "date": "2026-06-06",
-                        "home_team": "Gibraltar",
-                        "away_team": "Cayman Islands",
-                        "home_score": 4,
-                        "away_score": 1,
-                        "tournament": "Friendly",
-                        "host": "Gibraltar"
+                        "date": "2026-09-24",
+                        "home_team": "Kosovo",
+                        "away_team": "Ireland",
+                        "home_score": 1,
+                        "away_score": 0,
+                        "tournament": "European Nations League B",
+                        "host": "Kosovo"
                     }
                 ],
                 "details_end": {}
@@ -28315,10 +28435,10 @@
             {
                 "country": "Bahamas",
                 "current": true,
-                "total": 9,
+                "total": 10,
                 "wins": 0,
                 "draws": 0,
-                "losses": 9,
+                "losses": 10,
                 "date_started": "2024-10-15",
                 "details_streak": [
                     {
@@ -28401,6 +28521,15 @@
                         "away_score": 0,
                         "tournament": "CONCACAF Series",
                         "host": "Cayman Islands"
+                    },
+                    {
+                        "date": "2026-09-23",
+                        "home_team": "Saint Martin",
+                        "away_team": "Bahamas",
+                        "home_score": 8,
+                        "away_score": 0,
+                        "tournament": "CONCACAF Nations League C",
+                        "host": "US Virgin Islands"
                     }
                 ],
                 "details_end": {}
@@ -28565,6 +28694,81 @@
                 "details_end": {}
             },
             {
+                "country": "Brunei",
+                "current": true,
+                "total": 7,
+                "wins": 0,
+                "draws": 0,
+                "losses": 7,
+                "date_started": "2025-10-09",
+                "details_streak": [
+                    {
+                        "date": "2025-10-09",
+                        "home_team": "Brunei",
+                        "away_team": "Yemen",
+                        "home_score": 0,
+                        "away_score": 2,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Brunei"
+                    },
+                    {
+                        "date": "2025-10-14",
+                        "home_team": "Yemen",
+                        "away_team": "Brunei",
+                        "home_score": 9,
+                        "away_score": 0,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Kuwait"
+                    },
+                    {
+                        "date": "2025-11-18",
+                        "home_team": "Brunei",
+                        "away_team": "Lebanon",
+                        "home_score": 0,
+                        "away_score": 3,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "Brunei"
+                    },
+                    {
+                        "date": "2026-03-31",
+                        "home_team": "Bhutan",
+                        "away_team": "Brunei",
+                        "home_score": 2,
+                        "away_score": 1,
+                        "tournament": "Asian Cup qualifier",
+                        "host": "India"
+                    },
+                    {
+                        "date": "2026-06-02",
+                        "home_team": "Brunei",
+                        "away_team": "East Timor",
+                        "home_score": 0,
+                        "away_score": 3,
+                        "tournament": "Southeast Asian Champ qual",
+                        "host": "Brunei"
+                    },
+                    {
+                        "date": "2026-06-09",
+                        "home_team": "East Timor",
+                        "away_team": "Brunei",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "Southeast Asian Champ qual",
+                        "host": "Malaysia"
+                    },
+                    {
+                        "date": "2026-09-24",
+                        "home_team": "Laos",
+                        "away_team": "Brunei",
+                        "home_score": 3,
+                        "away_score": 1,
+                        "tournament": "Southeast Asian Cup",
+                        "host": "Hong Kong"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
                 "country": "Greenland",
                 "current": true,
                 "total": 7,
@@ -28635,204 +28839,6 @@
                         "away_score": 0,
                         "tournament": "Friendly",
                         "host": "Turkey"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Taiwan",
-                "current": true,
-                "total": 6,
-                "wins": 0,
-                "draws": 0,
-                "losses": 6,
-                "date_started": "2025-06-10",
-                "details_streak": [
-                    {
-                        "date": "2025-06-10",
-                        "home_team": "Sri Lanka",
-                        "away_team": "Taiwan",
-                        "home_score": 3,
-                        "away_score": 1,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Sri Lanka"
-                    },
-                    {
-                        "date": "2025-09-05",
-                        "home_team": "Indonesia",
-                        "away_team": "Taiwan",
-                        "home_score": 6,
-                        "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "Indonesia"
-                    },
-                    {
-                        "date": "2025-10-09",
-                        "home_team": "Thailand",
-                        "away_team": "Taiwan",
-                        "home_score": 2,
-                        "away_score": 0,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Thailand"
-                    },
-                    {
-                        "date": "2025-10-14",
-                        "home_team": "Taiwan",
-                        "away_team": "Thailand",
-                        "home_score": 1,
-                        "away_score": 6,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Taiwan"
-                    },
-                    {
-                        "date": "2025-11-18",
-                        "home_team": "Turkmenistan",
-                        "away_team": "Taiwan",
-                        "home_score": 3,
-                        "away_score": 1,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Turkmenistan"
-                    },
-                    {
-                        "date": "2026-03-31",
-                        "home_team": "Taiwan",
-                        "away_team": "Sri Lanka",
-                        "home_score": 1,
-                        "away_score": 3,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Taiwan"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Brunei",
-                "current": true,
-                "total": 6,
-                "wins": 0,
-                "draws": 0,
-                "losses": 6,
-                "date_started": "2025-10-09",
-                "details_streak": [
-                    {
-                        "date": "2025-10-09",
-                        "home_team": "Brunei",
-                        "away_team": "Yemen",
-                        "home_score": 0,
-                        "away_score": 2,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Brunei"
-                    },
-                    {
-                        "date": "2025-10-14",
-                        "home_team": "Yemen",
-                        "away_team": "Brunei",
-                        "home_score": 9,
-                        "away_score": 0,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Kuwait"
-                    },
-                    {
-                        "date": "2025-11-18",
-                        "home_team": "Brunei",
-                        "away_team": "Lebanon",
-                        "home_score": 0,
-                        "away_score": 3,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "Brunei"
-                    },
-                    {
-                        "date": "2026-03-31",
-                        "home_team": "Bhutan",
-                        "away_team": "Brunei",
-                        "home_score": 2,
-                        "away_score": 1,
-                        "tournament": "Asian Cup qualifier",
-                        "host": "India"
-                    },
-                    {
-                        "date": "2026-06-02",
-                        "home_team": "Brunei",
-                        "away_team": "East Timor",
-                        "home_score": 0,
-                        "away_score": 3,
-                        "tournament": "Southeast Asian Champ qual",
-                        "host": "Brunei"
-                    },
-                    {
-                        "date": "2026-06-09",
-                        "home_team": "East Timor",
-                        "away_team": "Brunei",
-                        "home_score": 3,
-                        "away_score": 1,
-                        "tournament": "Southeast Asian Champ qual",
-                        "host": "Malaysia"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Saint Pierre and Miquelon",
-                "current": true,
-                "total": 6,
-                "wins": 0,
-                "draws": 0,
-                "losses": 6,
-                "date_started": "2010-09-22",
-                "details_streak": [
-                    {
-                        "date": "2010-09-22",
-                        "home_team": "Reunion",
-                        "away_team": "Saint Pierre and Miquelon",
-                        "home_score": 11,
-                        "away_score": 0,
-                        "tournament": "French Territory Cup",
-                        "host": "France"
-                    },
-                    {
-                        "date": "2010-09-25",
-                        "home_team": "French Guiana",
-                        "away_team": "Saint Pierre and Miquelon",
-                        "home_score": 7,
-                        "away_score": 0,
-                        "tournament": "French Territory Cup",
-                        "host": "France"
-                    },
-                    {
-                        "date": "2012-09-22",
-                        "home_team": "Guadeloupe",
-                        "away_team": "Saint Pierre and Miquelon",
-                        "home_score": 13,
-                        "away_score": 0,
-                        "tournament": "French Territory Cup",
-                        "host": "France"
-                    },
-                    {
-                        "date": "2012-09-24",
-                        "home_team": "Reunion",
-                        "away_team": "Saint Pierre and Miquelon",
-                        "home_score": 10,
-                        "away_score": 0,
-                        "tournament": "French Territory Cup",
-                        "host": "France"
-                    },
-                    {
-                        "date": "2012-09-26",
-                        "home_team": "French Guiana",
-                        "away_team": "Saint Pierre and Miquelon",
-                        "home_score": 11,
-                        "away_score": 1,
-                        "tournament": "French Territory Cup",
-                        "host": "France"
-                    },
-                    {
-                        "date": "2012-09-28",
-                        "home_team": "New Caledonia",
-                        "away_team": "Saint Pierre and Miquelon",
-                        "home_score": 16,
-                        "away_score": 1,
-                        "tournament": "French Territory Cup",
-                        "host": "France"
                     }
                 ],
                 "details_end": {}
@@ -29436,10 +29442,10 @@
             {
                 "country": "Antigua and Barbuda",
                 "current": true,
-                "total": 17,
+                "total": 18,
                 "wins": 0,
                 "draws": 5,
-                "losses": 12,
+                "losses": 13,
                 "date_started": "2023-10-17",
                 "details_streak": [
                     {
@@ -29593,6 +29599,15 @@
                         "home_score": 1,
                         "away_score": 4,
                         "tournament": "CONCACAF Series",
+                        "host": "Antigua and Barbuda"
+                    },
+                    {
+                        "date": "2026-09-23",
+                        "home_team": "Antigua and Barbuda",
+                        "away_team": "Aruba",
+                        "home_score": 0,
+                        "away_score": 1,
+                        "tournament": "CONCACAF Nations League C",
                         "host": "Antigua and Barbuda"
                     }
                 ],
@@ -29748,40 +29763,88 @@
         ],
         "Drawing": [
             {
-                "country": "Iran",
+                "country": "Libya",
+                "current": true,
+                "total": 4,
+                "wins": 0,
+                "draws": 4,
+                "losses": 0,
+                "date_started": "2025-11-25",
+                "details_streak": [
+                    {
+                        "date": "2025-11-25",
+                        "home_team": "Libya",
+                        "away_team": "Palestine",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "Arab Cup qualifier",
+                        "host": "Qatar"
+                    },
+                    {
+                        "date": "2026-03-27",
+                        "home_team": "Libya",
+                        "away_team": "Niger",
+                        "home_score": 0,
+                        "away_score": 0,
+                        "tournament": "Friendly",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-03-31",
+                        "home_team": "Liberia",
+                        "away_team": "Libya",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "Friendly",
+                        "host": "Morocco"
+                    },
+                    {
+                        "date": "2026-09-24",
+                        "home_team": "Libya",
+                        "away_team": "Botswana",
+                        "home_score": 2,
+                        "away_score": 2,
+                        "tournament": "African Nations Cup qualifier",
+                        "host": "Libya"
+                    }
+                ],
+                "details_end": {}
+            },
+            {
+                "country": "Australia",
                 "current": true,
                 "total": 3,
                 "wins": 0,
                 "draws": 3,
                 "losses": 0,
-                "date_started": "2026-06-15",
+                "date_started": "2026-06-25",
                 "details_streak": [
                     {
-                        "date": "2026-06-15",
-                        "home_team": "Iran",
-                        "away_team": "New Zealand",
-                        "home_score": 2,
-                        "away_score": 2,
-                        "tournament": "World Cup",
-                        "host": "United States"
-                    },
-                    {
-                        "date": "2026-06-21",
-                        "home_team": "Belgium",
-                        "away_team": "Iran",
+                        "date": "2026-06-25",
+                        "home_team": "Australia",
+                        "away_team": "Paraguay",
                         "home_score": 0,
                         "away_score": 0,
                         "tournament": "World Cup",
                         "host": "United States"
                     },
                     {
-                        "date": "2026-06-26",
-                        "home_team": "Egypt",
-                        "away_team": "Iran",
+                        "date": "2026-07-03",
+                        "home_team": "Australia",
+                        "away_team": "Egypt",
                         "home_score": 1,
                         "away_score": 1,
                         "tournament": "World Cup",
                         "host": "United States"
+                    },
+                    {
+                        "date": "2026-09-25",
+                        "home_team": "Australia",
+                        "away_team": "Brazil",
+                        "home_score": 1,
+                        "away_score": 1,
+                        "tournament": "Friendly",
+                        "host": "Australia"
                     }
                 ],
                 "details_end": {}
@@ -29826,40 +29889,40 @@
                 "details_end": {}
             },
             {
-                "country": "Libya",
+                "country": "Palestine",
                 "current": true,
                 "total": 3,
                 "wins": 0,
                 "draws": 3,
                 "losses": 0,
-                "date_started": "2025-11-25",
+                "date_started": "2026-06-06",
                 "details_streak": [
                     {
-                        "date": "2025-11-25",
-                        "home_team": "Libya",
+                        "date": "2026-06-06",
+                        "home_team": "Kyrgyzstan",
                         "away_team": "Palestine",
                         "home_score": 0,
                         "away_score": 0,
-                        "tournament": "Arab Cup qualifier",
-                        "host": "Qatar"
+                        "tournament": "Friendly",
+                        "host": "Kyrgyzstan"
                     },
                     {
-                        "date": "2026-03-27",
-                        "home_team": "Libya",
-                        "away_team": "Niger",
+                        "date": "2026-06-09",
+                        "home_team": "Kyrgyzstan",
+                        "away_team": "Palestine",
                         "home_score": 0,
                         "away_score": 0,
                         "tournament": "Friendly",
-                        "host": "Morocco"
+                        "host": "Kyrgyzstan"
                     },
                     {
-                        "date": "2026-03-31",
-                        "home_team": "Liberia",
-                        "away_team": "Libya",
+                        "date": "2026-09-24",
+                        "home_team": "New Zealand",
+                        "away_team": "Palestine",
                         "home_score": 2,
                         "away_score": 2,
-                        "tournament": "Friendly",
-                        "host": "Morocco"
+                        "tournament": "Friendly tournament",
+                        "host": "China"
                     }
                 ],
                 "details_end": {}
@@ -29899,246 +29962,6 @@
                         "away_score": 0,
                         "tournament": "African Nations Cup qualifier",
                         "host": "Mauritius"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Australia",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2026-06-25",
-                "details_streak": [
-                    {
-                        "date": "2026-06-25",
-                        "home_team": "Australia",
-                        "away_team": "Paraguay",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "World Cup",
-                        "host": "United States"
-                    },
-                    {
-                        "date": "2026-07-03",
-                        "home_team": "Australia",
-                        "away_team": "Egypt",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "World Cup",
-                        "host": "United States"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Armenia",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2026-06-06",
-                "details_streak": [
-                    {
-                        "date": "2026-06-06",
-                        "home_team": "Armenia",
-                        "away_team": "Kazakhstan",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "Friendly",
-                        "host": "Armenia"
-                    },
-                    {
-                        "date": "2026-06-09",
-                        "home_team": "Armenia",
-                        "away_team": "Moldova",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "Friendly",
-                        "host": "Armenia"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Cuba",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2026-03-26",
-                "details_streak": [
-                    {
-                        "date": "2026-03-26",
-                        "home_team": "Cuba",
-                        "away_team": "Martinique",
-                        "home_score": 2,
-                        "away_score": 2,
-                        "tournament": "CONCACAF Series",
-                        "host": "Dominican Republic"
-                    },
-                    {
-                        "date": "2026-03-29",
-                        "home_team": "Dominican Republic",
-                        "away_team": "Cuba",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "CONCACAF Series",
-                        "host": "Dominican Republic"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Palestine",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2026-06-06",
-                "details_streak": [
-                    {
-                        "date": "2026-06-06",
-                        "home_team": "Kyrgyzstan",
-                        "away_team": "Palestine",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "Kyrgyzstan"
-                    },
-                    {
-                        "date": "2026-06-09",
-                        "home_team": "Kyrgyzstan",
-                        "away_team": "Palestine",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "Kyrgyzstan"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Fiji",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2026-06-09",
-                "details_streak": [
-                    {
-                        "date": "2026-06-09",
-                        "home_team": "Vanuatu",
-                        "away_team": "Fiji",
-                        "home_score": 2,
-                        "away_score": 2,
-                        "tournament": "Friendly",
-                        "host": "Vanuatu"
-                    },
-                    {
-                        "date": "2026-09-18",
-                        "home_team": "Fiji",
-                        "away_team": "Solomon Islands",
-                        "home_score": 3,
-                        "away_score": 3,
-                        "tournament": "Melanesian Cup",
-                        "host": "Fiji"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Moldova",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2026-06-05",
-                "details_streak": [
-                    {
-                        "date": "2026-06-05",
-                        "home_team": "Moldova",
-                        "away_team": "Bulgaria",
-                        "home_score": 2,
-                        "away_score": 2,
-                        "tournament": "Friendly",
-                        "host": "Moldova"
-                    },
-                    {
-                        "date": "2026-06-09",
-                        "home_team": "Armenia",
-                        "away_team": "Moldova",
-                        "home_score": 1,
-                        "away_score": 1,
-                        "tournament": "Friendly",
-                        "host": "Armenia"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Kyrgyzstan",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2026-06-06",
-                "details_streak": [
-                    {
-                        "date": "2026-06-06",
-                        "home_team": "Kyrgyzstan",
-                        "away_team": "Palestine",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "Kyrgyzstan"
-                    },
-                    {
-                        "date": "2026-06-09",
-                        "home_team": "Kyrgyzstan",
-                        "away_team": "Palestine",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Friendly",
-                        "host": "Kyrgyzstan"
-                    }
-                ],
-                "details_end": {}
-            },
-            {
-                "country": "Mayotte",
-                "current": true,
-                "total": 2,
-                "wins": 0,
-                "draws": 2,
-                "losses": 0,
-                "date_started": "2023-08-24",
-                "details_streak": [
-                    {
-                        "date": "2023-08-24",
-                        "home_team": "Comoros",
-                        "away_team": "Mayotte",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Indian Ocean Games",
-                        "host": "Madagascar"
-                    },
-                    {
-                        "date": "2023-08-26",
-                        "home_team": "Mayotte",
-                        "away_team": "Reunion",
-                        "home_score": 0,
-                        "away_score": 0,
-                        "tournament": "Indian Ocean Games",
-                        "host": "Madagascar"
                     }
                 ],
                 "details_end": {}
